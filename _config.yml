@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-FR"
-title                    : "Gansheng TAN / Academic personal page"
+title                    : "Gansheng TAN / Academic personal pages"
 title_separator          : "-"
 name                     : &name "Gansheng TAN"
 description              : &description "second year engineering student of CentraleSupélec"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "M.S. TAN Gansheng"
   avatar           : "T_avater.jpeg"
-  bio              : "second year engineering student of CentraleSupélec"
+  bio              : "second year engineering student at CentraleSupélec, researcher in neuro data science, technician of INSERM "
   location         : "Paris, France"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
