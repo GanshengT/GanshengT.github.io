@@ -84,9 +84,9 @@ author:
   avatar           : "T_avater.jpeg"
   bio              : "Second year engineering student at CentraleSupélec, researcher in neuro data science"
   location         : "Paris, France"
-  employer         : "Technician of INSERM "
+  employer         : "https://www.inserm.fr/"
   pubmed           : #""
-  googlescholar    : #""
+  googlescholar    : "GanshengTAN"
   email            : "aegean0045@outlook.com"
   researchgate     : "https://www.researchgate.net/profile/Gansheng_Tan"
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        : "https://www.instagram.com/nathan_gansheng/?hl=fr"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/gansheng-tan-390435147/"
+  linkedin         : "gansheng-tan-390435147"
   orcid            : "https://orcid.org/0000-0001-8785-9499"
   pinterest        :
   soundcloud       :
