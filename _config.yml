@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "M.S. TAN Gansheng"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  avatar           : "T_avater.jpeg"
+  bio              : "second year engineering student of CentraleSupélec"
+  location         : "Paris, France"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
