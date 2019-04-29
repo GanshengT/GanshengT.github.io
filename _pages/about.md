@@ -17,7 +17,7 @@ Project list
 ============
 
 feel free to contact me if you are interested in one of the following projects
--[] artificial blood, the goal is to find the red blood cell substitutes 
--[] Language prouction research concerning ERP(Event-Related Potential), EEG or MEG(Magnetoencephalography). The main purpose is to create speech by using brain signals. (partly achieved thanks to AI)
--[x] Relevant feature engineering for EEG signals during meditation
+- [ ] artificial blood, the goal is to find the red blood cell substitutes 
+- [ ] Language prouction research concerning ERP(Event-Related Potential), EEG or MEG(Magnetoencephalography). The main purpose is to create speech by using brain signals. (partly achieved thanks to AI)
+- [X] Relevant feature engineering for EEG signals during meditation
 
