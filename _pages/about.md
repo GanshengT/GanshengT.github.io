@@ -1,49 +1,54 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Gansheng TAN"
+excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Introduction
+============
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Gansheng Tan is a PhD candidate in Biomedical Engineering at [Washington University in St. Louis](https://bme.washu.edu). He worked at [Division of Neurotechnology](https://neurosurgery.wustl.edu/division-of-neurotechnology-2/). Gansheng Tan's research spans a cross-section of engineering, data science, and neuroscience, focusing on human cognitive neuroscience using intracranial and scalp electroencephalogram, and neurotechnology development. He was an engineer at [INSERM U1028 Centre de Recherche en Neurosciences de Lyon](https://sfrsantelyonest.univ-lyon1.fr/centre51-inserm-u1028-cnrs-umr5292.html) as well as a research fellow in [L2S: Laboratoire des signaux et système](http://www.l2s.centralesupelec.fr/). His contributions to science include open-source software development for [electrophysiological signal](https://mne.tools/stable/index.html) processing and statistical models, system design for brain computer [interface](https://ieeexplore.ieee.org/document/9945079), wearable non-invasive vagus nerve stimulation for [immunomodulation](https://elifesciences.org/articles/100088) and [neuromodulation](https://www.brainstimjrnl.com/article/S1935-861X(24)00060-3/fulltext), and corticomuscular network as a framework for improving [stroke rehabilitation](https://pubmed.ncbi.nlm.nih.gov/35366651/).  
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Academic Research
+=================
+Gansheng TAN's research is driven by a profound interest in dissecting the complex neural circuits that underpin human cognition, with a focus on electrophysiological mechanisms. Synthesizing principles from neuroscience, engineering, and computational modeling, he seeks to develop closed-loop neuromodulation technologies that improve the quality of life for people living with neurological conditions. To achieve this, Gansheng's work spans the basic neuroscience of human cognition, as well as the development and clinical validation of neurotechnology (both hardware and software).  He received his B.S. from [ShangHai Jiao Tong University](http://en.sjtu.edu.cn/) and graduate-level engineering degree at [Centrale Paris](https://www.centralesupelec.fr/). During first two years in mechanical department of ShangHai Jiao Tong University, Gansheng has evaluated water film flow on large vertical and inclined flat plate of the passive containment cooling system (PCCS). In the field of machine learning and information, he has contributed to the creation of the website [La Condamine](https://lacondamine.org/), the CANs(Creative Adversarial Networks) as well as several information propagation models. Gansheng worked on the analysis of EEG(Electroencephalography) signal during meditation focusing on several fields such as **personal artifacts detection** and **relaxation degree classification** since 2018. He came up with semi-automatic EEG preprocessing pipeline that is widely used by reseach teams in INSERM. Gansheng Tan earned a Master's degree in mechnical engineerinig  in Robotic Institute of Shanghai Jiao Tong University, and currently deal with graph-based functional analysis of multi-channels EEG-EMG signals and its application in sport performance assessment as well as stroke rehabilittion.
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+Project list
+============
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+Feel free to contact Gansheng TAN by email if you are interested in one of the following projects
+- [ ] Automomic and objective localization of Stereoelectroencephalography (sEEG) electrodes and deep brain stimulation electrodes based on MRI and CT.
+- [ ] Development of wearable non-invasive vagus nerve stimulation and sensory stimulation for improving cognition
+- [Done] artificial blood, the goal is to find the red blood cell substitutes 
+- [Done] biological and medical image restortion and reinforcement by minimizing the multi-layer graph-based energy function
+- [ ] Language prouction research concerning ERP(Event-Related Potential), EEG or MEG(Magnetoencephalography). The main purpose is to create speech by using brain signals.
+- [Done] Relevant feature engineering for EEG signals during meditation, TBR (theta-beta ratop) and PAC (phase amplitute coupling) prove disctinct between meditation expects and beginners in FA (focus attention) meditation.
+- [Done] Computational bijection mapping between visual image (Visual Spatial Attention) and [retinotopy](https://www.sciencedirect.com/topics/neuroscience/retinotopy)
+- [Done] stroke evaluation and intervention: the application of convolutional neural network on EEG-EMG functional connectivity graph 
 
-**Markdown generator**
+Philosophy
+==========
+Gansheng TAN believes that
+- Every decision is the best when reviewing the life trajectory in the future.
+- The imperfait memory and learning ability is the best resource of motivation.
+- Memory is key to understand the universe.
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+Other activities
+================
+Believing an open exchange of ideas accelerates scientific progress towards solving our most persistent problems. Gansheng TAN participate in a science project **Open Science**, the goal of which is to promote a open science platform (*COS*)[https://cos.io/] and a new publishing register pipeline. Gansheng TAN is contributing on open-source software for electrophysiology data acquition, data analytics, statistical models, and brain computer interface. <br><br>
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Gansheng TAN has initiated a social projet **Tandem** which aims to provide a platform and give those of commun interest or seeking a new skill an oppotunity to help each other. Gansheng was an instructor on *Analysis, probability and Partial Differential Equation* at CentraleSupelec. Gansheng Tan also contributed to R-packages such as *eeglab* and *eegkits*. <br><br>
+Gansheng TAN plays guitar and drums when he started the high school, and he praticed trombone when he was in [La band'à joe](http://www.bandajoe.com/?page=accueil_accueil). He created a band *Aegean without sea* at CentraleSupélec and had several performing at school festivial and at Univercité Paris Sud. 
+
+Gansheng TAN plays basketball for SJTU, and is a fan of rock climbing, hiking, and tennis.
+
+Gansheng TAN's calendar.
+
+<iframe src="https://calendar.google.com/calendar/embed?src=aegean004500%40gmail.com&ctz=Europe%2FParis" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
