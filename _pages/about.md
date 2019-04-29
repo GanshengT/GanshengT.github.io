@@ -46,9 +46,9 @@ Project list
 ============
 
 feel free to contact me if you are interested in one of the following projects
--[] artificial blood, the goal is to find the red blood cell substitutes 
--[] Language prouction research concerning ERP(Event-Related Potential), EEG or MEG(Magnetoencephalography). The main purpose is to create speech by using brain signals. (partly achieved thanks to AI)
--[x] Relevant feature engineering for EEG signals during meditation
+- [ ] artificial blood, the goal is to find the red blood cell substitutes 
+- [ ] Language prouction research concerning ERP(Event-Related Potential), EEG or MEG(Magnetoencephalography). The main purpose is to create speech by using brain signals. (partly achieved thanks to AI)
+- [X] Relevant feature engineering for EEG signals during meditation
 
 Gansheng TAN has initiated a social projet **Tandem** which aims to provide a platform and give those of commun interest or seeking a new skill an oppotunity to help each other. Gansheng was an instructor on *Analysis, probability and Partial Differential Equation* at CentraleSupelec. Gansheng Tan also contributed to R-packages such as *eeglab* and *eegkits*. <br><br>
 Gansheng TAN plays guitar and drums when he started the high school, and he praticed trombone when he was in [La band'à joe](http://www.bandajoe.com/?page=accueil_accueil). He created a band *Aegean without sea* at CentraleSupélec and had several performing at school festivial and at Univercité Paris Sud. 
