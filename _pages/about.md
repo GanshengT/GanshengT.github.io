@@ -8,10 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Summary
 =======
 
-<<<<<<< HEAD
 Gansheng Tan is a PhD candidate in Biomedical Engineering at [Washington University in St. Louis](https://bme.washu.edu). He worked at [Division of Neurotechnology](https://neurosurgery.wustl.edu/division-of-neurotechnology-2/). Gansheng Tan's research spans a cross-section of engineering, data science, and neuroscience, focusing on human cognitive neuroscience using intracranial and scalp electroencephalogram, and neurotechnology development. He was an engineer at [INSERM U1028 Centre de Recherche en Neurosciences de Lyon](https://sfrsantelyonest.univ-lyon1.fr/centre51-inserm-u1028-cnrs-umr5292.html) as well as a research fellow in [L2S: Laboratoire des signaux et système](http://www.l2s.centralesupelec.fr/). His contributions to science include open-source software development for [electrophysiological signal](https://mne.tools/stable/index.html) processing and statistical models, system design for brain computer [interface](https://ieeexplore.ieee.org/document/9945079), wearable non-invasive vagus nerve stimulation for [immunomodulation](https://elifesciences.org/articles/100088) and [neuromodulation](https://www.brainstimjrnl.com/article/S1935-861X(24)00060-3/fulltext), and corticomuscular network as a framework for improving [stroke rehabilitation](https://pubmed.ncbi.nlm.nih.gov/35366651/).  
 
 
@@ -44,10 +42,9 @@ Other activities
 Believing an open exchange of ideas accelerates scientific progress towards solving our most persistent problems. Gansheng TAN participate in a science project **Open Science**, the goal of which is to promote a open science platform (*COS*)[https://cos.io/] and a new publishing register pipeline. Gansheng TAN is contributing on open-source software for electrophysiology data acquition, data analytics, statistical models, and brain computer interface. <br><br>
 =======
 Currently I'm a student of engineering at [Centrale Paris](https://www.centralesupelec.fr/) as well as a researcher in [L2S: Laboratoire des signaux et système](http://www.l2s.centralesupelec.fr/). These days I mostly analyse EEG(Electroencephalography) signal during meditation focusing on several fields such as **personal artifacts detection** and **relaxation degree classification**.
+=======
+Gansheng TAN is a techinicien at [INSERM U1028](https://sfrsantelyonest.univ-lyon1.fr/centre51-inserm-u1028-cnrs-umr5292.html) as well as a researcher in [L2S: Laboratoire des signaux et système](http://www.l2s.centralesupelec.fr/). He received his B.S. from [ShangHai Jiao Tong University](http://en.sjtu.edu.cn/) and became engineering student at [Centrale Paris](https://www.centralesupelec.fr/). Currently he analyse EEG(Electroencephalography) signal during meditation focusing on several fields such as **personal artifacts detection** and **relaxation degree classification**.
 
-Research
-========
->>>>>>> 84d375f (Update about.md)
 
 Project list
 ============
