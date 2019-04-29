@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-=======
 
 Gansheng TAN is a techinicien at [INSERM U1028](https://sfrsantelyonest.univ-lyon1.fr/centre51-inserm-u1028-cnrs-umr5292.html) as well as a researcher in [L2S: Laboratoire des signaux et système](http://www.l2s.centralesupelec.fr/). He received his B.S. from [ShangHai Jiao Tong University](http://en.sjtu.edu.cn/) and became engineering student at [Centrale Paris](https://www.centralesupelec.fr/). Currently he analyse EEG(Electroencephalography) signal during meditation focusing on several fields such as **personal artifacts detection** and **relaxation degree classification**.
 
