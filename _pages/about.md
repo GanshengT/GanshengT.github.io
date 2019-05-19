@@ -64,13 +64,13 @@ Gansheng TAN's calendar.
 =======
 Philosophy
 ==========
-* Gansheng TAN believes that
+Gansheng TAN believes that
 - One can always make his or her current decision the best one when he or she review it in the future.
 - The imperfait memory and learning ability is the best resource of motivation.
 
 Other activities
 ================
-Gansheng TAN is doing a social projet **Tandem** which aims to provide a platform and give those of commun interest or seeking a new skill an oppotunity to help each other.
+Gansheng TAN is doing a social projet **Tandem** which aims to provide a platform and give those of commun interest or seeking a new skill an oppotunity to help each other. (`) dd
 
  
 >>>>>>> cd498c2 (Update about.md)
