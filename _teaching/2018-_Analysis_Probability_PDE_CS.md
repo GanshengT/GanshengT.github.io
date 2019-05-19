@@ -14,8 +14,8 @@ Analysis Probability and PDE
 ============================
 
 Slack
------
-Invitation to the Slack for the course: gbit.ly/2DMK9jf
+-------------------------------------------------------
+The communication is available on Wechet
 
 Lectures
 --------
@@ -74,8 +74,7 @@ of this notebook.
 Thanks
 ------
 
-Special thank to Dr. Maria Vakalopoulou and Pr. Fragkiskos Maillaros.
-
+Special thank to Dr.Brice Hannebicque
 
 
 Sudoku solver
@@ -88,9 +87,7 @@ Here is a nice [Sudoku solver](/files/Sudoku_ilp.ipynb) written in Python. It re
 Challenges 
 ---------
 
-Students can elect to participate to a relevant Kaggle challenge. I recommend this new
-[particle tracking](https://www.kaggle.com/c/trackml-particle-identification)
-challenge. The top prize is 12,000\$ !
+good luck for the finak
 
 Other relevant challenges will be posted here.
 
