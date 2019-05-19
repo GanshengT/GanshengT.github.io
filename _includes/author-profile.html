@@ -117,7 +117,16 @@
       {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
-{% endif %}
+      {% endif %}
+      {% if author.dblp %}
+        <li><a href="{{ author.dblp }}"><i class="ai ai-dblp ai-fw"></i> DBLP</a></li>
+      {% endif %}
+       {% if author.CV-HAL %}
+        <li><a href="{{ author.CV-HAL }}"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> CV-HAL</a></li>
+      {% endif %}
+      {% if author.Researchgate %}
+        <li><a href="{{ author.Researchgate }}"><i class="ai ai-researchgate-square ai-fw"</i> Researchgate</a></li>
+      {% endif %}
     </ul>
   </div>
 </div>
