@@ -9,12 +9,8 @@ redirect_from:
 ---
 
 
-<<<<<<< HEAD
 Gansheng Tan is a PhD candidate in Biomedical Engineering at [Washington University in St. Louis](https://bme.washu.edu). He worked at [Division of Neurotechnology](https://neurosurgery.wustl.edu/division-of-neurotechnology-2/). Gansheng Tan's research spans a cross-section of engineering, data science, and neuroscience, focusing on human cognitive neuroscience using intracranial and scalp electroencephalogram, and neurotechnology development. He was an engineer at [INSERM U1028 Centre de Recherche en Neurosciences de Lyon](https://sfrsantelyonest.univ-lyon1.fr/centre51-inserm-u1028-cnrs-umr5292.html) as well as a research fellow in [L2S: Laboratoire des signaux et système](http://www.l2s.centralesupelec.fr/). His contributions to science include open-source software development for [electrophysiological signal](https://mne.tools/stable/index.html) processing and statistical models, system design for brain computer [interface](https://ieeexplore.ieee.org/document/9945079), wearable non-invasive vagus nerve stimulation for [immunomodulation](https://elifesciences.org/articles/100088) and [neuromodulation](https://www.brainstimjrnl.com/article/S1935-861X(24)00060-3/fulltext), and corticomuscular network as a framework for improving [stroke rehabilitation](https://pubmed.ncbi.nlm.nih.gov/35366651/).  
 
-=======
-Gansheng TAN is a techinicien at [INSERM U1028 Centre de Recherche en Neurosciences de Lyon](https://sfrsantelyonest.univ-lyon1.fr/centre51-inserm-u1028-cnrs-umr5292.html) as well as a research scientist in [L2S: Laboratoire des signaux et système](http://www.l2s.centralesupelec.fr/) whose research spans a cross-section of engineering, data science, and neuroscience. 
->>>>>>> 12529d7 (Update about.md)
 
 Academic Research
 =================
@@ -52,7 +48,6 @@ Feel free to contact Gansheng TAN by email if you are interested in one of the f
 - [ ] Language prouction research concerning ERP(Event-Related Potential), EEG or MEG(Magnetoencephalography). The main purpose is to create speech by using brain signals. (partly achieved thanks to AI)
 - [X] Relevant feature engineering for EEG signals during meditation
 
-<<<<<<< HEAD
 Gansheng TAN has initiated a social projet **Tandem** which aims to provide a platform and give those of commun interest or seeking a new skill an oppotunity to help each other. Gansheng was an instructor on *Analysis, probability and Partial Differential Equation* at CentraleSupelec. Gansheng Tan also contributed to R-packages such as *eeglab* and *eegkits*. <br><br>
 Gansheng TAN plays guitar and drums when he started the high school, and he praticed trombone when he was in [La band'à joe](http://www.bandajoe.com/?page=accueil_accueil). He created a band *Aegean without sea* at CentraleSupélec and had several performing at school festivial and at Univercité Paris Sud. 
 
@@ -61,33 +56,3 @@ Gansheng TAN plays basketball for SJTU, and is a fan of rock climbing, hiking, a
 Gansheng TAN's calendar.
 
 <iframe src="https://calendar.google.com/calendar/embed?src=aegean004500%40gmail.com&ctz=Europe%2FParis" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-=======
-Philosophy
-==========
-Gansheng TAN believes that
-- One can always make his or her current decision the best one when he or she review it in the future.
-- The imperfait memory and learning ability is the best resource of motivation.
-
-Other activities
-================
-Gansheng TAN is doing a social projet **Tandem** which aims to provide a platform and give those of commun interest or seeking a new skill an oppotunity to help each other. Gansheng also do an teaching assistantship on <font color=blue> Analysis, probability and Partial Differential Equation </font>at CentraleSupelec.Gansheng Tan also contributed to R-packages such as eeglab and eegkits. <br>
-Gansheng TAN is an amateur musician, he played guitar when he started the high school, and he praticed trombone when he was in [La band'à joe](http://www.bandajoe.com/?page=accueil_accueil). He created a band *Aegean without sea* at CentraleSupélec and had several performing at school festivial and at Univercité Paris Sud. In addition, Gansheng TAN played often basketball, he plays in SJTU in [FCBA](http://w35-associations.apps.paris.fr/searchasso/jsp/site/Portal.jsp?page=searchasso&id=3639) 
-
-```js
-  import { Component } from '@angular/core';
-  import { MovieService } from './services/movie.service';
-
-  @Component({
-    selector: 'app-root',
-    templateUrl: './app.component.html',
-    styleUrls: ['./app.component.css'],
-    providers: [ MovieService ]
-  })
-  export class AppComponent {
-    title = 'app works!';
-  }
-```
-
-
- 
->>>>>>> cd498c2 (Update about.md)
