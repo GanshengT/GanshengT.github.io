@@ -31,6 +31,6 @@ Gansheng TAN believes that
 
 Other activities
 ================
-Gansheng TAN is doing a social projet **Tandem** which aims to provide a platform and give those of commun interest or seeking a new skill an oppotunity to help each other. Gansheng also do an teaching assistantship on *Analysis, probability and Partial Differential Equation* at CentraleSupelec.Gansheng Tan also contributed to R-packages such as eeglab and eegkits. <br>
+Gansheng TAN is doing a social projet **Tandem** which aims to provide a platform and give those of commun interest or seeking a new skill an oppotunity to help each other. Gansheng also do an teaching assistantship on *Analysis, probability and Partial Differential Equation* at CentraleSupelec.Gansheng Tan also contributed to R-packages such as eeglab and eegkits. <br><br>
 Gansheng TAN is an amateur musician, he played guitar when he started the high school, and he praticed trombone when he was in [La band'à joe](http://www.bandajoe.com/?page=accueil_accueil). He created a band *Aegean without sea* at CentraleSupélec and had several performing at school festivial and at Univercité Paris Sud. In addition, Gansheng TAN played often basketball, he plays in SJTU in [FCBA](http://w35-associations.apps.paris.fr/searchasso/jsp/site/Portal.jsp?page=searchasso&id=3639) 
 
