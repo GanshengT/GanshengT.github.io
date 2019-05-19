@@ -31,6 +31,6 @@ Gansheng TAN believes that
 
 Other activities
 ================
-Gansheng TAN is doing a social projet **Tandem** which aims to provide a platform and give those of commun interest or seeking a new skill an oppotunity to help each other. (`) dd
+Gansheng TAN is doing a social projet **Tandem** which aims to provide a platform and give those of commun interest or seeking a new skill an oppotunity to help each other. Gansheng also do an teaching assistantship on <font color=blue> Analysis, probability and Partial Differential Equation </font>at CentraleSupelec
 
  
