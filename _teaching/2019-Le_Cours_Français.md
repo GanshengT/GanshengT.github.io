@@ -4,7 +4,7 @@ collection: teaching
 type: "engineering student course"
 permalink: /teaching/2019-Le_Cours_Français
 venue: "Paris-Shanghai"
-date: 201ç-03-10
+date: 2019-03-10
 location: "Paris, France"
 ---
 
