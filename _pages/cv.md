@@ -27,7 +27,8 @@ Tel: +33 0789523536    Email: aegean0045@outlook.com
     <td><i>CentraleSupélec</i><br>
         Paris, France<br>
         Sept 2017 - present<br>
-      Engineering school of World's 30th University, Paris-Saclay
+      Engineering school of World's 30th <br>
+      University, Paris-Saclay
    </td>
     <td>Key subjects studied: Analysis, Statistics, Probability, Machine Learning,<br> Signal Processing<br>
       Working on a one-year project on classifying different degree of relaxation <br>
