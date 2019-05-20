@@ -19,7 +19,13 @@ Tel: +33 0789523536    Email: aegean0045@outlook.com
 **Team-minded** INSERM(*French National Institute of Health and Medical Research*) technicien looking to fill a position as **biostatistical engineer**. Wishing to use strong **signal-analysis** skills and **interdisplinary approaches** to address one of the global challenges - the future healthcare.
 
 ## Education:
-<html>
+
+| | | |
+|-|-|-|
+|__Bold Key__| Value1 |
+| Normal Key | Value2 |
+
+
 <table border="0">
  <tr>
     <td><i>CentraleSupélec</i></td>
@@ -30,7 +36,7 @@ Tel: +33 0789523536    Email: aegean0045@outlook.com
     <td>Working on a one-year project on classifying different degree of relaxation based on Nexus-32 measuring device of Mind Media company</td>
  </tr>
 </table>
-</html>
+
 
 Work experience
 ======
