@@ -10,10 +10,16 @@ redirect_from:
 {% include base_path %}
 
 ## Gansheng TAN 
+<<<<<<< HEAD
 <pre>
 Washington University in St. Louis, 520 S Euclid Ave, St. Louis, MO 63110, USA <br>
 Tel: +1 (314) 745-9303    Email: g.tan@wustl.edu 
 </pre>
+=======
+4CD2123, 1 Rue Joliot-Curie, 91190, Gif-sur-Yvette <br>
+Tel: +33 0789523536         Email: aegean0045@outlook.com <br>
+
+>>>>>>> 2864b7b (Update cv.md)
 
 ## Objective:
 I am a self-motivated and team-minded Ph.D. student with 6 years of experience in **neuromodulation research** and bioelectrical signal processing. I seek to understand neural plasticity through electrophysiology, interact with these signals using an interdisciplinary approach, and develop new effective treatments for nervous system-related diseases. 
