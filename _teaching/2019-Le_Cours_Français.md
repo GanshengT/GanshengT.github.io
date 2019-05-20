@@ -1,5 +1,5 @@
 ---
-title: "Le Cours Français"
+title: "Le_Cours_Français"
 collection: teaching
 type: "engineering student course"
 permalink: /teaching/2019-Le_Cours_Français
