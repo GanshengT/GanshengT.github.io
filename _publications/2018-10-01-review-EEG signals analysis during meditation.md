@@ -12,4 +12,4 @@ This review is about the setting up stage of EEG signals analysis project which 
 
 [Download paper here](/files/publications/jalon_4%20.pdf)
 
-[//]: # Recommended citation: Gansheng, T.&Shuhui, W.&Valentin, V.& Wei,M. (2018). "Review of 2018 EEG signals analysis during meditation" <i>Jalon</i>. 1(4).
+[//]: # (Recommended citation: Gansheng, T.&Shuhui, W.&Valentin, V.& Wei,M. (2018). "Review of 2018 EEG signals analysis during meditation" <i>Jalon</i>. 1(4).)
