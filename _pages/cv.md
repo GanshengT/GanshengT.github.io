@@ -10,8 +10,8 @@ redirect_from:
 {% include base_path %}
 
 ## Gansheng TAN 
-4CD2123, 1 Rue Joliot-Curie, 91190, Gif-sur-Yvette <br>
 <pre>
+4CD2123, 1 Rue Joliot-Curie, 91190, Gif-sur-Yvette <br>
 Tel: +33 0789523536      Email: aegean0045@outlook.com 
 </pre>
 
