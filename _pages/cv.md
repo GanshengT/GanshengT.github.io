@@ -15,10 +15,9 @@ Tel: +33 0789523536   Email: aegen0045@outlook.com <br>
 <br>
 
 ## Objective:
-Team-minded INSERM(*French National Institute of Health and Medical Research*) technicien seeking to join a project
+**Team-minded** INSERM(*French National Institute of Health and Medical Research*) technicien looking to fill a position as **biostatistical engineer**. Wishing to use strong **signal-analysis** skills and **interdisplinary approaches** to address one of the global challenge - the future healthcare.
 
-Education
-======
+## Education:
 * B.S. in GitHub, GitHub University, 2012
 * M.S. in Jekyll, GitHub University, 2014
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
