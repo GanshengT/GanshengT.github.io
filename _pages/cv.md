@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+**Gansheng TAN**
+4CD2123, 1 Rue Joliot-Curie, 91190, Gif-sur-Yvette
+Tel: +33 0789523536   Email: aegen0045@outlook.com
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
