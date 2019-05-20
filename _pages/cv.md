@@ -20,14 +20,18 @@ Tel: +33 0789523536    Email: aegean0045@outlook.com
 
 ## Education:
 
-| | | |
-|-|-|-|
-|__Bold Key__| Value1 |
-| Normal Key | Value2 |
-
-      | 
-------|------
-Row 1 | row 2
+<table align="center">
+    <tr>
+        <td align="center"><img src="docs/img1.png?raw=true" alt="some text"></td>
+        <td align="center">Some other text</td>
+        <td align="center">More text</td>
+    </tr>
+    <tr>
+        <td align="center"><img src="docs/img2.png?raw=true" alt="some text"></td>
+        <td align="center">Some other text 2</td>
+        <td align="center">More text 2</td>
+    </tr>
+</table>
 
 
 <table border="0">
