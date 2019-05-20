@@ -11,11 +11,11 @@ redirect_from:
 
 ## **Gansheng TAN** 
 4CD2123, 1 Rue Joliot-Curie, 91190, Gif-sur-Yvette <br>
-Tel: +33 0789523536   Email: aegen0045@outlook.com <br>
+Tel: +33 0789523536         Email: aegean0045@outlook.com <br>
 <br>
 
 ## Objective:
-**Team-minded** INSERM(*French National Institute of Health and Medical Research*) technicien looking to fill a position as **biostatistical engineer**. Wishing to use strong **signal-analysis** skills and **interdisplinary approaches** to address one of the global challenge - the future healthcare.
+**Team-minded** INSERM(*French National Institute of Health and Medical Research*) technicien looking to fill a position as **biostatistical engineer**. Wishing to use strong **signal-analysis** skills and **interdisplinary approaches** to address one of the global challenges - the future healthcare.
 
 ## Education:
 * B.S. in GitHub, GitHub University, 2012
