@@ -108,7 +108,7 @@ Shanghai, China 	Shanghai Jiao Tong University
   </tr>
  
 </table>
-</html>
+
 
 ## Relevant Work/Research Experience
 <table border="0">
