@@ -25,6 +25,10 @@ Tel: +33 0789523536    Email: aegean0045@outlook.com
 |__Bold Key__| Value1 |
 | Normal Key | Value2 |
 
+[]()  | 
+------|------
+Row 1 | row 2
+
 
 <table border="0">
  <tr>
