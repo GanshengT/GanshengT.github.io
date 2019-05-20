@@ -11,13 +11,8 @@ redirect_from:
 
 ## Gansheng TAN 
 <pre>
-<<<<<<< HEAD
 Washington University in St. Louis, 520 S Euclid Ave, St. Louis, MO 63110, USA <br>
 Tel: +1 (314) 745-9303    Email: g.tan@wustl.edu 
-=======
-4CD2123, 1 Rue Joliot-Curie, 91190, Gif-sur-Yvette <br>
-Tel: +33 0789523536      Email: aegean0045@outlook.com 
->>>>>>> 9f4fcf1 (Update cv.md)
 </pre>
 
 ## Objective:
