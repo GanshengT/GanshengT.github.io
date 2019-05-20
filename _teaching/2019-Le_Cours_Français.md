@@ -1,7 +1,7 @@
 ---
 title: "Le Cours Français"
 collection: teaching
-type: "engineering student course"
+type: "le cours est ouvert pour tout le monde"
 permalink: /teaching/2019-Le_Cours_Français
 venue: "Paris-Shanghai"
 date: 2019-03-10
