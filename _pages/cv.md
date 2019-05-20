@@ -27,16 +27,19 @@ Tel: +33 0789523536    Email: aegean0045@outlook.com
     <td><i>CentraleSupélec</i><br>
         Paris, France<br>
         Sept 2017 - present<br>
-      Engineering school of World's 30th <br>
-      University, Paris-Saclay
+        Engineering school of World's 30th <br>
+        University, Paris-Saclay
    </td>
     <td>Key subjects studied: Analysis, Statistics, Probability, <b>Machine Learning</b>,<br> <b>Signal Processing</b><br>
-      Working on a <b>one-year</b> project on <b>classifying meditation state</b> using <br>EEG(Electroencephalography) signals 
-      based on Nexus-32 measuring device of Mind Media company
+        Working on a <b>one-year</b> project on <b>classifying meditation state</b> using <br>
+        EEG(Electroencephalography) signals based on Nexus-32 measuring device<br>
+        of Mind Media company
    </td>
  </tr>
  <tr>
-    <td>Paris, France</td>
+    <td><i>Shanghai Jiao Tong University</i><br>
+        Shanghai, China
+   </td>
     <td></td>
  </tr>
 </table>
