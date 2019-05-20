@@ -15,16 +15,23 @@
   }
 
   a {
-    text-decoration: underline;
-
-    &:hover {
-      text-decoration: underline;
-
-      img {
-        box-shadow: 0 0 10px rgba(#000, 0.25);
-      }
-    }
+    color: inherit;
   }
+   a:link {
+    text-decoration: none;
+   }
+
+   a:visited {
+    text-decoration: none;
+   }
+
+   a:hover {
+    text-decoration: underline;
+   }
+
+   a:active {
+    text-decoration: underline;
+   }
 }
 
 .archive__subtitle {
