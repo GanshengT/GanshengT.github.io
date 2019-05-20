@@ -12,16 +12,23 @@ redirect_from:
 ## Gansheng TAN 
 <pre>
 4CD2123, 1 Rue Joliot-Curie, 91190, Gif-sur-Yvette <br>
-Tel: +33 0789523536      Email: aegean0045@outlook.com 
+Tel: +33 0789523536    Email: aegean0045@outlook.com 
 </pre>
 
 ## Objective:
 **Team-minded** INSERM(*French National Institute of Health and Medical Research*) technicien looking to fill a position as **biostatistical engineer**. Wishing to use strong **signal-analysis** skills and **interdisplinary approaches** to address one of the global challenges - the future healthcare.
 
 ## Education:
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+<table border="0">
+ <tr>
+    <td><i>CentraleSupélec</i></td>
+    <td>Key subjects studied: Analysis, Statistics, Probability, Machine Learning, Signal Processing</td>
+ </tr>
+ <tr>
+    <td>Paris, France</td>
+    <td>Working on a one-year project on classifying different degree of relaxation based on Nexus-32 measuring device of Mind Media company</td>
+ </tr>
+</table>
 
 Work experience
 ======
