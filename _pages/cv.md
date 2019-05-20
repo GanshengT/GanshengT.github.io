@@ -9,12 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-## **Gansheng TAN** <br>
+## **Gansheng TAN** 
 4CD2123, 1 Rue Joliot-Curie, 91190, Gif-sur-Yvette <br>
 Tel: +33 0789523536   Email: aegen0045@outlook.com <br>
 <br>
 
 ## Objective:
+Team-minded INSERM(*French National Institute of Health and Medical Research*) technicien seeking to join a project
 
 Education
 ======
