@@ -20,28 +20,25 @@ Tel: +33 0789523536    Email: aegean0045@outlook.com
 
 ## Education:
 
-<table align="center">
-    <tr>
-        <td align="center"><img src="docs/img1.png?raw=true" alt="some text"></td>
-        <td align="center">Some other text</td>
-        <td align="center">More text</td>
-    </tr>
-    <tr>
-        <td align="center"><img src="docs/img2.png?raw=true" alt="some text"></td>
-        <td align="center">Some other text 2</td>
-        <td align="center">More text 2</td>
-    </tr>
-</table>
 
 
 <table border="0">
  <tr>
-    <td><i>CentraleSupélec</i></td>
-    <td>Key subjects studied: Analysis, Statistics, Probability, Machine Learning, Signal Processing</td>
+    <td><i>CentraleSupélec</i><br>
+        Paris, France<br>
+        Sept 2017 - present<br>
+      Engineering school of Worde's top<br>
+       30 University, Paris-Saclay
+   </td>
+    <td>Key subjects studied: Analysis, Statistics, Probability, Machine<br> 
+      Learning, Signal Processing<br>
+      Working on a one-year project on classifying different degree of<br>
+      relaxation based on Nexus-32 measuring device of Mind Media company
+   </td>
  </tr>
  <tr>
     <td>Paris, France</td>
-    <td>Working on a one-year project on classifying different degree of relaxation based on Nexus-32 measuring device of Mind Media company</td>
+    <td></td>
  </tr>
 </table>
 
