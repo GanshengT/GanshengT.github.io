@@ -34,10 +34,10 @@ Tel: +33 0789523536    Email: aegean0045@outlook.com
         Processing</b><br>
         Working on a <b>one-year</b> project on <b>classifying meditation state</b> using EEG<br>
         (Electroencephalography) signals based on Nexus-32 measuring device of Mind Media company<br>
-        Leading a <b>4-month</b> project about implementation and extension of <b>Creative Adversarial <br>
-        Network</b> to generate creative art images <br>
-        Integrating in pedagogical teams for <i>Convergence, Intégration, Probabilités et Equations<br> 
-        aux Dérivées Partielles</i>
+        Leading a <b>4-month</b> project about implementation and extension of <b>Creative <br>
+        adversarial Network</b> to generate creative art images <br>
+        Integrating in pedagogical teams for <i>Convergence, Intégration, Probabilités et <br>
+        Equations aux Dérivées Partielles</i>
    </td>
  </tr>
   
