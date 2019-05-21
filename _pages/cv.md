@@ -32,12 +32,12 @@ Tel: +33 0789523536    Email: aegean0045@outlook.com
    </td>
     <td>Key subjects studied: Analysis, Statistics, Probability, <b>Machine Learning</b>, <b>Signal <br>
         Processing</b><br>
-        Working on a <b>one-year</b> project on <b>classifying meditation state</b> using 
-        EEG(Electroencephalography) signals based on Nexus-32 measuring device of Mind Media company<br>
+        Working on a <b>one-year</b> project on <b>classifying meditation state</b> using EEG<br>
+        (Electroencephalography) signals based on Nexus-32 measuring device of Mind Media company<br>
         Leading a <b>4-month</b> project about implementation and extension of <b>Creative Adversarial <br>
         Network</b> to generate creative art images <br>
-        Integrating in pedagogical teams for <i>Convergence, Intégration, Probabilités et Equations aux <br>
-        Dérivées Partielles</i>
+        Integrating in pedagogical teams for <i>Convergence, Intégration, Probabilités et Equations<br> 
+        aux Dérivées Partielles</i>
    </td>
  </tr>
   
