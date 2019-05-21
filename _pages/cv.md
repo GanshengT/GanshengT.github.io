@@ -32,7 +32,7 @@ Tel: +33 0789523536    Email: aegean0045@outlook.com
    </td>
     <td>Key subjects studied: Analysis, Statistics, Probability, <b>Machine Learning</b>, <b>Signal <br>
         Processing</b><br>
-        Working on a <b>one-year</b> project on <b>classifying meditation state</b> using EEG<br>
+        Worked on a <b>one-year</b> project on <b>classifying meditation state</b> using EEG<br>
         (Electroencephalography) signals based on Nexus-32 measuring device of Mind Media company<br>
         Leading a <b>4-month</b> project about implementation and extension of <b>Creative <br>
         adversarial Network</b> to generate creative art images <br>
@@ -43,11 +43,14 @@ Tel: +33 0789523536    Email: aegean0045@outlook.com
   
  <tr>
     <td><i>Shanghai Jiao Tong University</i><br>
-        Shanghai, China
+        Shanghai, China<br>
         Sept 2015 - July 2017
    </td> 
   <td>
-    <b>Honor student</i> of 2016
+    <b>Honor student</b> of 2016<br>
+    worked on a <b>one-semester</b> innovation project on <b>new mechanical structure of <br>
+    bicycle lock </b>winning the title of <b>excellent project</b>
+    
     
   </td>
  </tr>
