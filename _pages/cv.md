@@ -60,11 +60,9 @@ Tel: +33 0789523536    Email: aegean0045@outlook.com
     Sept 2012 - Sept 2015
     </td>
   <td>
-    <b>Classed A*</b> in GaoKao (highly competitive national entrnce exam to the leding<br>
-    universities)<br>
-    <b>Ranked second</b> in the <i>23th National Youth Computer Performance Competition</i> <br>
-    to control a machine fetching mines and avoiding rocks which aroused my <b>interest<br>
-    in <i>Artificial Intelligence</i></b>
+    <b>Classed A*</b> in GaoKao (highly competitive national entrnce exam to the leding universities)<br>
+    <b>Ranked second</b> in the <i>23th National Youth Computer Performance Competition</i> to control a machine fetching mines and<br>
+    avoiding rocks which aroused my <b>interest in <i>Artificial Intelligence</i></b>
     </td>
   </tr>
  
@@ -92,8 +90,8 @@ Tel: +33 0789523536    Email: aegean0045@outlook.com
         July 2018 - Sept 2018
    </td>
     <td>
-      Did an <b>internship as a consultant</b>, was responsable for the ordering, receipt,<br>
-      and storage of merchandise and provided the suggestions to customers
+      Did an <b>internship as a consultant</b>, was responsable for the ordering, receipt, and storage of merchandise and provided the<br>
+      suggestions to customers
    </td>
  </tr>
   
@@ -104,7 +102,7 @@ Tel: +33 0789523536    Email: aegean0045@outlook.com
    </td> 
   <td>
     Organized <b>two weeks of integration</b> for international students<br>
-    Prepared <b>four</b> workshop and several lunch-meeting for the propose of cultural exchange   
+    Prepared <b>four</b> workshops and several lunch-meetings for the propose of cultural exchange   
   </td>
  </tr>
  
