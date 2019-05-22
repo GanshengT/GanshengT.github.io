@@ -118,20 +118,20 @@ Tel: +33 0789523536    Email: aegean0045@outlook.com
  </tr>
  </table>
   
-## Language Skills
-Chinese: native language
-French: full professional proficiency (DALF C1)
-English: professional working proficiency (597 TOFEL iPT)
+## Language Skills:
+Chinese: native language<br>
+French: full professional proficiency (DALF C1)<br>
+English: professional working proficiency (597 TOFEL iPT)<br>
 
-## Computer available on request
+## Computer Skills:
 
 
-## Reference available on request 
+## Reference available on request:
   
-|ID|Name|Value|
-|------|---|-----|
-|001|Bank ABC<!-- .element: style="text-align:center;" -->|5,740.00<!-- .element: style="text-align:right;" -->|
-|002|Super Fund<!-- .element: style="text-align:center;" -->|1,2280.00<!-- .element: style="text-align:right;" -->|
+|Professor *Antoine Chaillet*|Name|Directeur *Maria-Soledad Verstraete*|
+|----------------------------|-------------|--------------------------|
+|CentraleSupélec, Université Paris-Saclay<!-- .element: style="text-align:center;" -->|Bank ABC<!-- .element: style="text-align:center;" -->|5,740.00<!-- .element: style="text-align:right;" -->|
+
 
 
 
