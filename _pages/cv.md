@@ -86,11 +86,23 @@ Shanghai, China 	Shanghai Jiao Tong University
    </td> 
   <td>
     <b>Honor student</b> of 2016<br>
+<<<<<<< HEAD
     Worked on a <b>one-semester</b> innovation project on <b>new mechanical structure of bicycle lock </b>winning the title of <b>2016<br>
     excellent project</b><br>
     Conducted a <b>one-year experiment study</b> of water film flooding mechanism on a tilting large plate<br>
     Simulated <b>Pressure Control System of Nuclear Reactor Regulator</b> based on MATLAB Simulink<br>
     Attented <b>one-month seminar</b> in <i>Sydney University</i> to conceive a global frame of durable nuclear energy development    
+=======
+    Worked on a <b>one-semester</b> innovation project on <b>new mechanical structure of <br>
+    bicycle lock </b>winning the title of <b>2016 excellent project</b><br>
+    Conducted a <b>one-year experiment study</b> of water film flooding mechanism on<br>
+    a tilting large plate<br>
+    Simulated <b>Pressure Control System of Nuclear Reactor Regulator</b> based on <br>
+    MATLAB Simulink<br>
+    Attented <b>one-month seminar</b> in <i>Sydney University</i> to conceive a global frame of durable<br>
+    nuclear energy development
+    
+>>>>>>> 5d03a1b (Update cv.md)
   </td>
  </tr>
  
