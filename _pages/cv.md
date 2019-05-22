@@ -136,8 +136,8 @@ CentraleSupélec, Université Paris-Saclay
     </tr>
   </table>
   
-|Professor Antoine Chaillet||Directeur Maria-Soledad Verstraete|
-|------|---|
-|CentraleSupélec, Université Paris-Saclay|CentraleSupélec Université Paris-Saclay<!-- .element: style="text-align:center;" -->|
+|Professor Antoine Chaillet|[]|Directeur Maria-Soledad Verstraete|
+|------|-----|---|
+|CentraleSupélec, Université Paris-Saclay|[]|CentraleSupélec Université Paris-Saclay<!-- .element: style="text-align:center;" -->|
 
 
