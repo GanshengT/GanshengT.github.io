@@ -28,14 +28,13 @@ Tel: +33 0789523536    Email: aegean0045@outlook.com
         Engineering school of World's 30th <br>
         University, Paris-Saclay
    </td>
-    <td>Key subjects studied: Analysis, Statistics, Probability, <b>Machine Learning</b>, <b>Signal <br>
-        Processing</b><br>
-        Worked on a <b>one-year</b> project on <b>classifying meditation state</b> using EEG<br>
-        (Electroencephalography) signals based on Nexus-32 measuring device of Mind Media company<br>
-        Leading a <b>4-month</b> project about implementation and extension of <b>Creative <br>
-        adversarial Network</b> to generate creative art images <br>
-        Integrating in pedagogical teams for <i>Convergence, Intégration, Probabilités et <br>
-        Equations aux Dérivées Partielles</i>
+    <td>
+      Key subjects studied: Analysis, Statistics, Probability, <b>Machine Learning</b>, <b>Signal Processing</b><br>
+      Worked on a <b>one-year</b> project on <b>classifying meditation state</b> using EEG(Electroencephalography) <br>
+      signals based on Nexus-32 measuring device of Mind Media company<br>
+      Leading a <b>4-month</b> project about implementation and extension of <b>Creative adversarial Network</b> to <br>
+      generate creative art images <br>
+      Integrating in pedagogical teams for <i>Convergence, Intégration, Probabilités et Equations aux Dérivées Partielles</i>
    </td>
  </tr>
   
@@ -77,6 +76,19 @@ Tel: +33 0789523536    Email: aegean0045@outlook.com
 
 ## Work and leadership experience:
 <table border="0">
+ 
+ <tr>
+    <td>
+      <i>INSERM, French National Institute <br>
+      of Health and Medical Research</i><br>
+      Bron, France<br>
+      July 2018 - Sept 2018
+   </td>
+    <td>
+      Analysing brain wave
+   </td>
+ </tr>
+ 
  <tr>
     <td><i>Ma-para, Pharmacy of Carrefour</i><br>
         Lyon, France<br>
