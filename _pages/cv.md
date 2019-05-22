@@ -49,13 +49,13 @@ Tel: +33 0789523536    Email: aegean0045@outlook.com
   <td>
     <b>Honor student</b> of 2016<br>
     Worked on a <b>one-semester</b> innovation project on <b>new mechanical structure of <br>
-    bicycle lock </b>winning the title of <b>excellent project</b><br>
+    bicycle lock </b>winning the title of <b>2016 excellent project</b><br>
     Conducted a <b>one-year experiment study</b> of water film flooding mechanism on<br>
-    a tilting large plate
+    a tilting large plate<br>
     Simulated <b>Pressure Control System of Nuclear Reactor Regulator</b> based on <br>
-    MATLAB Simulink
+    MATLAB Simulink<br>
     Attented <b>one-month seminar</b> in <i>Sydney University</i> to conceive a global frame of durable<br>
-    nuvlear energy development
+    nuclear energy development
     
   </td>
  </tr>
