@@ -83,44 +83,33 @@ Tel: +33 0789523536    Email: aegean0045@outlook.com
         July 2018 - Sept 2018
    </td>
     <td>
-      Did an <b>internship as a consultant</b>, was responsable for the ordering, <br>
-      receipt, and storage of merchandise and provided the suggestions to customers
+      Did an <b>internship as a consultant</b>, was responsable for the ordering, receipt,<br>
+      and storage of merchandise and provided the suggestions to customers
    </td>
  </tr>
   
  <tr>
-    <td><i>Shanghai Jiao Tong University</i><br>
-        Shanghai, China<br>
-        Sept 2015 - July 2017
+    <td><i>BDI, International Student Union</i><br>
+        CentraleSupélec, Paris, France<br>
+        July 2017 - present
    </td> 
   <td>
-    <b>Honor student</b> of 2016<br>
-    Worked on a <b>one-semester</b> innovation project on <b>new mechanical structure of <br>
-    bicycle lock </b>winning the title of <b>2016 excellent project</b><br>
-    Conducted a <b>one-year experiment study</b> of water film flooding mechanism on<br>
-    a tilting large plate<br>
-    Simulated <b>Pressure Control System of Nuclear Reactor Regulator</b> based on <br>
-    MATLAB Simulink<br>
-    Attented <b>one-month seminar</b> in <i>Sydney University</i> to conceive a global frame of <br>durable
-    nuclear energy development    
+    Organized <b>two weeks of integration</b> for international students<br>
+    Prepared <b>four</b> workshop and several lunch-meeting for the propose of cultural exchange   
   </td>
  </tr>
  
  <tr>
+    <td><i>Team Promo, representative of class 2020 of CentraleSupélec </i><br>
+        Paris, France<br>
+        July 2017 - present
+   </td> 
   <td>
-    <i>Canton Experimental High School</i><br>
-    Canton, China<BR>
-    Sept 2012 - Sept 2015
-    </td>
-  <td>
-    <b>Classed A*</b> in GaoKao (highly competitive national entrnce exam to the leding<br>
-    universities)<br>
-    <b>Ranked second</b> in the <i>23th National Youth Computer Performance Competition</i> <br>
-    to control a machine fetching mines and avoiding rocks which aroused my <b>interest<br>
-    in <i>Artificial Intelligence</i></b>
-    </td>
-  </tr>
+    Organised the events to <b>maintain the cohesion</b> of <i>class 2020</i><br>
+  </td>
+ </tr>
  
+  
 </table>
   
 Skills
