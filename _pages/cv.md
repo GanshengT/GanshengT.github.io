@@ -131,16 +131,11 @@ English: professional working proficiency (597 TOFEL iPT)<br>
 | :-: |--| :-: |
 |Professor *Antoine Chaillet*<br>CentraleSupélec, Université Paris-Saclay|         |Director *Maria-Soledad Verstraete*<br>CentraleSupélec, Université Paris-Saclay|
 
-<table>
-    <thead>
-
-<tr>                      <!-- 100% -->
-    <th style="width:10%">Professor <i>Antoine Chaillet</i><!--  10% --></th>
-    <th style="width:80%"> <!--  50% --></th>
-    <th>                  <!--  40% -->Director <i>Maria-Soledad Verstraete</i> </th>
-</tr>
-</thead>
-</table>
+Name &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Value
+-------|-------------------
+`Value-One` | Long explanation
+`Value-Two` | Long explanation
+`etc` | Long explanation
 
 
 
