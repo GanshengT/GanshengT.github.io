@@ -100,7 +100,8 @@ Tel: +33 0789523536    Email: aegean0045@outlook.com
  </tr>
  
  <tr>
-    <td><i>Team Promo, representative of class 2020 of CentraleSupélec </i><br>
+    <td><i>Team Promo, representative of <br>
+      class 2020 of CentraleSupélec </i><br>
         Paris, France<br>
         July 2017 - present
    </td> 
