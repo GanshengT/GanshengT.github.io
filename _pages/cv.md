@@ -49,7 +49,9 @@ Tel: +33 0789523536    Email: aegean0045@outlook.com
   <td>
     <b>Honor student</b> of 2016<br>
     worked on a <b>one-semester</b> innovation project on <b>new mechanical structure of <br>
-    bicycle lock </b>winning the title of <b>excellent project</b>
+    bicycle lock </b>winning the title of <b>excellent project</b><br>
+    Conducted a <b>one-year experiment study</b> of water film flooding mechanism on<br>
+    a tilting large plate
     
     
   </td>
