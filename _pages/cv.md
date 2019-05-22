@@ -20,8 +20,6 @@ Tel: +33 0789523536    Email: aegean0045@outlook.com
 
 ## Education:
 
-
-
 <table border="0">
  <tr>
     <td><i>CentraleSupélec</i><br>
@@ -68,26 +66,62 @@ Tel: +33 0789523536    Email: aegean0045@outlook.com
   <td>
     <b>Classed A*</b> in GaoKao (highly competitive national entrnce exam to the leding<br>
     universities)<br>
-    <b>Ranked second</b> in the <i>23th Nationala Youth Computer Performance Competition</i> <br>
+    <b>Ranked second</b> in the <i>23th National Youth Computer Performance Competition</i> <br>
     to control a machine fetching mines and avoiding rocks which aroused my <b>interest<br>
-    in Artificial Intelligence</b>
+    in <i>Artificial Intelligence</i></b>
     </td>
   </tr>
  
 </table>
 
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Work and leadership experience:
+<table border="0">
+ <tr>
+    <td><i>Ma-para, Pharmacy of Carrefour</i><br>
+        Lyon, France<br>
+        July 2018 - Sept 2018
+   </td>
+    <td>
+      Did an <b>internship as a consultant</b>, was responsable for the ordering, <br>
+      receipt, and storage of merchandise and provided the suggestions to customers
+   </td>
+ </tr>
+  
+ <tr>
+    <td><i>Shanghai Jiao Tong University</i><br>
+        Shanghai, China<br>
+        Sept 2015 - July 2017
+   </td> 
+  <td>
+    <b>Honor student</b> of 2016<br>
+    Worked on a <b>one-semester</b> innovation project on <b>new mechanical structure of <br>
+    bicycle lock </b>winning the title of <b>2016 excellent project</b><br>
+    Conducted a <b>one-year experiment study</b> of water film flooding mechanism on<br>
+    a tilting large plate<br>
+    Simulated <b>Pressure Control System of Nuclear Reactor Regulator</b> based on <br>
+    MATLAB Simulink<br>
+    Attented <b>one-month seminar</b> in <i>Sydney University</i> to conceive a global frame of <br>durable
+    nuclear energy development    
+  </td>
+ </tr>
+ 
+ <tr>
+  <td>
+    <i>Canton Experimental High School</i><br>
+    Canton, China<BR>
+    Sept 2012 - Sept 2015
+    </td>
+  <td>
+    <b>Classed A*</b> in GaoKao (highly competitive national entrnce exam to the leding<br>
+    universities)<br>
+    <b>Ranked second</b> in the <i>23th National Youth Computer Performance Competition</i> <br>
+    to control a machine fetching mines and avoiding rocks which aroused my <b>interest<br>
+    in <i>Artificial Intelligence</i></b>
+    </td>
+  </tr>
+ 
+</table>
   
 Skills
 ======
