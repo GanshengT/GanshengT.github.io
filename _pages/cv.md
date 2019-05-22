@@ -128,8 +128,10 @@ English: professional working proficiency (597 TOFEL iPT)
 
 ## Reference available on request 
   
-|Professor Antoine Chaillet|Directeur Maria-Soledad Verstraete|
-|--- -------------------------------------|------------------------------------------------------------------------------------|
-|CentraleSupélec, Université Paris-Saclay |CentraleSupélec Université Paris-Saclay<!-- .element: style="text-align:center;" -->|
+|ID|Name|Value|
+|------|---|-----|
+|001|Bank ABC<!-- .element: style="text-align:center;" -->|5,740.00<!-- .element: style="text-align:right;" -->|
+|002|Super Fund<!-- .element: style="text-align:center;" -->|1,2280.00<!-- .element: style="text-align:right;" -->|
+
 
 
