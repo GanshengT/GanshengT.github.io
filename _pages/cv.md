@@ -54,11 +54,26 @@ Tel: +33 0789523536    Email: aegean0045@outlook.com
     a tilting large plate<br>
     Simulated <b>Pressure Control System of Nuclear Reactor Regulator</b> based on <br>
     MATLAB Simulink<br>
-    Attented <b>one-month seminar</b> in <i>Sydney University</i> to conceive a global frame of durable<br>
-    nuclear energy development
-    
+    Attented <b>one-month seminar</b> in <i>Sydney University</i> to conceive a global frame of <br>durable
+    nuclear energy development    
   </td>
  </tr>
+ 
+ <tr>
+  <td>
+    <i>Canton Experimental High School</i><br>
+    Canton, China<BR>
+    Sept 2012 - Sept 2015
+    </td>
+  <td>
+    <b>Classed A*</b> in GaoKao (highly competitive national entrnce exam to the leding<br>
+    universities)
+    <b>Ranked second in the <i>23th Nationala Youth Computer Performance Competition</i> to</b><br>
+    control a machine fetching mines and avoiding rocks which aroused my <b>interest<br>
+    in Artificial Intelligence</b>
+    </td>
+  </tr>
+ 
 </table>
 
 
