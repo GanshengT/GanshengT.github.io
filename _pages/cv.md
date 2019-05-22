@@ -116,37 +116,28 @@ Tel: +33 0789523536    Email: aegean0045@outlook.com
     Organised the events to <b>maintain the cohesion</b> of <i>class 2020</i><br>
   </td>
  </tr>
- 
+ </table>
   
-</table>
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+## Language Skills
+Chinese: native language
+French: full professional proficiency (DALF C1)
+English: professional working proficiency (597 TOFEL iPT)
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+## Computer available on request
+
+
+## Reference available on request 
+<table border="0">
+  <tr>
+    <td>
+      Professor Antoine Chaillet
+CentraleSupélec, Université Paris-Saclay
+      </td>
+    </tr>
+  </table>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+|Professor Antoine Chaillet||Directeur Maria-Soledad Verstraete|
+|------|---|
+|CentraleSupélec, Université Paris-Saclay|CentraleSupélec Université Paris-Saclay<!-- .element: style="text-align:center;" -->|
+
+
