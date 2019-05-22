@@ -135,9 +135,9 @@ English: professional working proficiency (597 TOFEL iPT)<br>
     <thead>
 
 <tr>                      <!-- 100% -->
-    <th style="width:10%">Professor Antoine<!--  10% --></th>
-    <th style="width:50%">Director<!--  50% --></th>
-    <th>                  <!--  40% --></th>
+    <th style="width:10%">Professor <i>Antoine Chaillet</i><!--  10% --></th>
+    <th style="width:80%"> <!--  50% --></th>
+    <th>                  <!--  40% -->Director <i>Maria-Soledad Verstraete</i> </th>
 </tr>
 </thead>
 </table>
