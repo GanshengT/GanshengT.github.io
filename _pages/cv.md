@@ -68,8 +68,8 @@ Tel: +33 0789523536    Email: aegean0045@outlook.com
   <td>
     <b>Classed A*</b> in GaoKao (highly competitive national entrnce exam to the leding<br>
     universities)<br>
-    <b>Ranked second in the <i>23th Nationala Youth Computer Performance Competition</i> to</b><br>
-    control a machine fetching mines and avoiding rocks which aroused my <b>interest<br>
+    <b>Ranked second</b> in the <i>23th Nationala Youth Computer Performance Competition</i> <br>
+    to control a machine fetching mines and avoiding rocks which aroused my <b>interest<br>
     in Artificial Intelligence</b>
     </td>
   </tr>
