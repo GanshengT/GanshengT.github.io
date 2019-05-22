@@ -77,7 +77,7 @@ Tel: +33 0789523536    Email: aegean0045@outlook.com
       <i>INSERM, French National Institute <br>
       of Health and Medical Research</i><br>
       Bron, France<br>
-      July 2018 - Sept 2018
+      June 2019 - present
    </td>
     <td>
       Analysing cerebral oscillation EEG signals during <b>different states of meditation</b>
