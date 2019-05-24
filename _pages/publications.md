@@ -7,7 +7,7 @@ author_profile: true
 For those articles which are succesfully published, you can find them on <u><a href="https://scholar.google.fr/">Google Scholar</a>.</u>
 You can also find Gansheng's articles on <a href="https://www.researchgate.net/profile/Gansheng_Tan">Researchgate.</a><br>
 
-Here is only  the article that are under refining.
+Here are only the articles that are under review.
 ===============================================
 
 
