@@ -124,7 +124,7 @@ Tel: +33 0789523536    Email: aegean0045@outlook.com
 *English*: professional working proficiency (597 TOFEL iPT)<br>
 
 ## Computer Skills:
-*Programing language*: R, Java, Python, C++, PHP, HTML, CSS
+*Programing language*: R, Java, Python, C++, PHP, HTML, CSS<br>
 *Software*: R-studio, Solidwork, Jupyter Notebook, MATLAB, Nexu32, Github bash, Latex
 
 
