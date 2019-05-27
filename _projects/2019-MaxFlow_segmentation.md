@@ -1,6 +1,6 @@
 ---
 title: "MaxFlow_segmentation"
-collection: teaching
+collection: projects
 type: "innovation project"
 permalink: /projects/2019-MaxFlow_segmentation
 venue: "CentraleSupélec, MICS"
