@@ -39,7 +39,6 @@ Shanghai, China 	Shanghai Jiao Tong University
         Sept 2021 - present<br>
    </td>
     <td>
-<<<<<<< HEAD
       Studying physiological effects of transcutaneous auricular vagus nerve stimulation <br>
    </td>
  </tr>
@@ -75,16 +74,6 @@ Shanghai, China 	Shanghai Jiao Tong University
       Led a <b>4-month</b> project about implementation and extension of <b>Creative adversarial Network</b> to generate creative art images <br>
       Developped <b>multi-layer</b> graph-based energy minimization methods in <b>computer vision</b><br>
       Ranked top 10 in <i>Huawei 2018 big data challenge</i><br>
-=======
-      Key subjects studied: Advanced Statistics, Machine Learning, Optimisation, <b>Signal Processing</b><br>
-      Worked on a <b>one-year</b> project on <b>classifying meditation state</b> using EEG(Electroencephalography) signals based on<br>
-      Nexus-32 measuring device of Mind Media company<br>
-      Leading a <b>4-month</b> project about implementation and extension of <b>Creative adversarial Network</b> to generate creative<br>
-      art images <br>
-      Developped <b>multi-layer</b> graph-based energy minimization methods in <b>computer vision</b><br>
-      Ranked top 10 in <i>Huawei 2018 big data challenge</i><br>
-      
->>>>>>> 59118ce (Update cv.md)
       Integrating in pedagogical teams for <i>Convergence, Intégration, Probabilités et Equations aux Dérivées Partielles</i> classes
    </td>
  </tr>
