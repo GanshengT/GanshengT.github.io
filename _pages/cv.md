@@ -29,11 +29,14 @@ Tel: +33 0789523536    Email: aegean0045@outlook.com
         University, Paris-Saclay
    </td>
     <td>
-      Key subjects studied: Analysis, Statistics, Probability, <b>Machine Learning</b>, <b>Signal Processing</b><br>
+      Key subjects studied: Advanced Statistics, Machine Learning, Optimisation, <b>Signal Processing</b><br>
       Worked on a <b>one-year</b> project on <b>classifying meditation state</b> using EEG(Electroencephalography) signals based on<br>
       Nexus-32 measuring device of Mind Media company<br>
       Leading a <b>4-month</b> project about implementation and extension of <b>Creative adversarial Network</b> to generate creative<br>
       art images <br>
+      Developped <b>multi-layer</b> graph-based energy minimization methods in <b>computer vision</b><br>
+      Ranked top 10 in <i>Huawei 2018 big data challenge</i><br>
+      
       Integrating in pedagogical teams for <i>Convergence, Intégration, Probabilités et Equations aux Dérivées Partielles</i> classes
    </td>
  </tr>
