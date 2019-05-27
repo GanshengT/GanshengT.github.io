@@ -10,7 +10,7 @@ location: "Paris, France"
 
 
 
-This project is served as an example about represent energy function as multi-layer graph.
+This project is served as an example about representing energy function as multi-layer graph.
 
 MaxFlow_segmentation
 ============================
