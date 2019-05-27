@@ -2,7 +2,7 @@
 title: "Analysis, probability and PDE"
 collection: teaching
 type: "engineering student course"
-permalink: /teaching/2018-_Analysis_Probability_PDE_CS
+permalink: /teaching/2018-Analysis_Probability_PDE_CS
 venue: "CentraleSupélec, MICS"
 date: 2018-03-10
 location: "Paris, France"
