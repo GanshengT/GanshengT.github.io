@@ -84,8 +84,7 @@ Special thank to Hugues Talbot
 
 Challenges 
 ---------
-
-good luck for the finak
+* almost-continue discretising step for stereo image to find visual correspodance
 
 Other relevant challenges will be posted here.
 
