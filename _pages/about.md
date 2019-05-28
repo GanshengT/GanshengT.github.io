@@ -20,6 +20,7 @@ Project list
 
 Feel free to contact Gansheng TAN by email if you are interested in one of the following projects
 - [ ] artificial blood, the goal is to find the red blood cell substitutes 
+- [ ] biological and medical image restortion and reinforcement by minimizing the multi-layer graph-based energy function
 - [ ] Language prouction research concerning ERP(Event-Related Potential), EEG or MEG(Magnetoencephalography). The main purpose is to create speech by using brain signals. (partly achieved thanks to AI)
 - [X] Relevant feature engineering for EEG signals during meditation
 
