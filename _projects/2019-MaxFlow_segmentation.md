@@ -23,17 +23,10 @@ images available on request
 Implementation
 --------
 
-|  | Entry                                                  | Description                                                 |
-|--| --------                                               |------------------------------------------------------------ |
-|01| [Introduction](/files/01_intro_optim_en.pdf)           | Introduction to optimisation                                |
-|02| [The Simplex algorithm](/files/02_simplexe_en.pdf)     | An algorithm for solving linear programs                    |
-|03| [Limit cases of the Simplex](/files/03_limites_en.pdf) | The limiting cases for the simplex, like how to start it    |
-|04| [Duality](/files/04_duality_en.pdf)                    | LP and duality. Interpretation and algorithms               |
-|05| [Integer Programming](/files/05_ip_formulation_en.pdf) | Formulation and examples                                    |
-|06| [IP resolution](/files/06_resolution_en.pdf)           | Resolution of Integer Programs: Cuts and Branch & Bound     |
-|07| [Transport Problems](/files/07_transport_formulation_en.pdf) | Transport problems are a simpler case of LP/IP        |
-|08| [Resolution of transport problems](/files/08_transport_solution_en.pdf) | Resolution of transport problems           |
-|09| [Network problems](/files/09_network_problems_en.pdf)  | Network problems, including maxflow and the network simplex |
+|  | Entry                                                        | Description                                                 |
+|--| --------                                                     |------------------------------------------------------------ |
+|01| [Image restoration and stereo](/files/01_intro_optim_en.pdf) | Introduction to optimisation                                |
+
 
 
 Tutorials
