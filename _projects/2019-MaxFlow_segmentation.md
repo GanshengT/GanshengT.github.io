@@ -25,7 +25,8 @@ Implementation
 
 |  | Entry                                                        | Description                                                 |
 |--| --------                                                     |------------------------------------------------------------ |
-|01| [Image restoration and stereo](/files/01_intro_optim_en.pdf) | Introduction to optimisation                                |
+|01| [Image restoration and stereo](/files/projects/maxflow_segmentation_Gansheng.ipynb) | Preliminary example to MaxFlow       |
+
 
 
 
