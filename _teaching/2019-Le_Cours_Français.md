@@ -2,7 +2,7 @@
 title: "Le Cours Français"
 collection: teaching
 type: "le cours est ouvert pour tout le monde"
-permalink: /teaching/2019-Le_Cours_Français
+permalink: /teaching/2019-Le_Cours_Françaistest
 venue: "Paris-Shanghai"
 date: 2019-03-10
 location: "Paris, France"
