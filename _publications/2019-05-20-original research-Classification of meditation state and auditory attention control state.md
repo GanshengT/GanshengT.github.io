@@ -7,7 +7,7 @@ phase-amplitude coupling in classification'
 date: 2019-05-20
 venue: 'NON'
 paperurl: ''
-citation: 'Gansheng, T. (2019). &quot;Classification of meditation state and auditory attention control state.&quot; <i>Jalon</i>. 1(4).'
+citation: 'Gansheng, T.&Shuhui, W.&Valentin, V.& Wei,M. (2019). &quot;Classification of meditation state and auditory attention control state.&quot; <i>Jalon</i>. 1(4).'
 ---
 This report consists of the protocol, data preprocessing, and machine learning models along with statistical analysis 
 [Download paper here](/files/publications/jalon_6%20.pdf)
