@@ -26,6 +26,7 @@ Matériel
 |02| [Phonétique français](/files/teaching/Français/prononciation-des-sons.pdf) |           apprendre la prononciation                 |
 |03| [règle des sons](/files/teaching/Français/écrire%20les%20sins.pdf)         |          apprendre les règles                        |
 |04| [l'alphabet des sons](/files/teaching/Français/lalphabetdessons.pdf)       |      les règles des sons version2                    |
+|05| [information personnelle](/files/teaching/Français/info%20personnelle.pdf) |      comment décrire une personne                    |
 
 
 
