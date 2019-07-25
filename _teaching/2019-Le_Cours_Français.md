@@ -22,9 +22,12 @@ Matériel
 
 |  | Entry                                                  | Description                                                 |
 |--| --------                                               |------------------------------------------------------------ |
-|01| [Fiche récapitulative1](/files/teaching/Français/leçon un.pdf)|                                                                      préparation du cours                                 |
-|02| [Phonétique français](/files/teaching/Français/prononciation-des-sons.pdf)|                                                        apprendre la prononciation                                 |
-|03| [règle des sons](/files/teaching/Français/écrire les sins.pdf)|                                                             apprendre les règles                                 |
+|01| [Fiche récapitulative1](/files/teaching/Français/leçon un.pdf)|                                                        préparation du cours                                 |
+
+|02| [Phonétique français](/files/teaching/Français/prononciation-des-sons.pdf)|                                              apprendre la prononciation                                 |
+
+|03| [règle des sons](/files/teaching/Français/écrire les sins.pdf)|                                                           apprendre les règles                                 |
+
 |04| [Phonétique français](/files/teaching/Français/lalphabetdessons.pdf)|                                                        les règles des sons version2                                 |
 
 
