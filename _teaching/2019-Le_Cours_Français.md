@@ -22,7 +22,11 @@ Matériel
 
 |  | Entry                                                  | Description                                                 |
 |--| --------                                               |------------------------------------------------------------ |
-|01| [Fiche récapitulative](/files/01_intro_optim_en.pdf)   | à partir de Reflet Leçon 3                                  |
+|01| [Fiche récapitulative1](/files/teaching/Français/leçon un.pdf)| 
+préparation du cours                                 |
+|02| [Phonétique français](/files/teaching/Français/prononciation-des-sons.pdf)|
+préparation du cours                                 |
+
 
 
 
