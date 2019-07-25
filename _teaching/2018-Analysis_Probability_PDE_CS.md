@@ -49,9 +49,6 @@ Reinforcement courses
 
 |  | Entry                                                  | Description                                                 |
 |--| --------                                               |------------------------------------------------------------ |
-|01| [Tutorial 1 text](/files/TD1-algo_en.pdf)              | Simplex algorithm, examples, formulations                   |
-|02| [Tutorial 2 text](/files/TD2_optim_en.pdf)             | Solving LP problems with spreadsheets. Duality              |
-|03| [Tutorial 3 text](/files/TD3-algo_en.pdf)              | This tutorial is on integer programming                     |
 |16| [MR16 statistique](/files/teaching/2018maths/MR16.pdf) | solution included                                           |
 |05| [solving the TSP](/files/TD5-tsp.pdf)                  | Solving the TSP. This is *assignment 2*                     |
 
