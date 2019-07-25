@@ -1,5 +1,5 @@
 ---
-title: "Analysis, probability and PDE"
+title: "Analysis, probability, statistics and PDE"
 collection: teaching
 type: "engineering student course"
 permalink: /teaching/2018-Analysis_Probability_PDE_CS
@@ -15,7 +15,7 @@ Analysis Probability and PDE
 
 Slack
 -------------------------------------------------------
-The communication is available on Wechet
+The communication is available on whatsapp and Wechet
 
 Lectures
 --------
@@ -42,6 +42,17 @@ Tutorials
 |02| [Tutorial 2 text](/files/TD2_optim_en.pdf)             | Solving LP problems with spreadsheets. Duality              |
 |03| [Tutorial 3 text](/files/TD3-algo_en.pdf)              | This tutorial is on integer programming                     |
 |04| [Tutorial 4 text](/files/TD4_cs_en.pdf)                | This tutorial is *assignment 1*                             |
+|05| [solving the TSP](/files/TD5-tsp.pdf)                  | Solving the TSP. This is *assignment 2*                     |
+
+Reinforcement courses
+---------
+
+|  | Entry                                                  | Description                                                 |
+|--| --------                                               |------------------------------------------------------------ |
+|01| [Tutorial 1 text](/files/TD1-algo_en.pdf)              | Simplex algorithm, examples, formulations                   |
+|02| [Tutorial 2 text](/files/TD2_optim_en.pdf)             | Solving LP problems with spreadsheets. Duality              |
+|03| [Tutorial 3 text](/files/TD3-algo_en.pdf)              | This tutorial is on integer programming                     |
+|16| [MR16 statistique](/files/teaching/2018maths/MR16.pdf) | solution included                                           |
 |05| [solving the TSP](/files/TD5-tsp.pdf)                  | Solving the TSP. This is *assignment 2*                     |
 
 
