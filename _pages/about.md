@@ -23,6 +23,7 @@ Feel free to contact Gansheng TAN by email if you are interested in one of the f
 - [ ] biological and medical image restortion and reinforcement by minimizing the multi-layer graph-based energy function
 - [ ] Language prouction research concerning ERP(Event-Related Potential), EEG or MEG(Magnetoencephalography). The main purpose is to create speech by using brain signals. (partly achieved thanks to AI)
 - [X] Relevant feature engineering for EEG signals during meditation
+- [ ] Computational bijection mapping between visual image (Visual Spatial Attention) and [retinotopy](https://www.sciencedirect.com/topics/neuroscience/retinotopy)
 
 Philosophy
 ==========
