@@ -12,7 +12,7 @@ redirect_from:
 ## Gansheng TAN 
 <pre>
 4CD2123, 1 Rue Joliot-Curie, 91190, Gif-sur-Yvette <br>
-Tel: +33 0789523536    Email: aegean0045@outlook.com 
+Tel: +86 13162132710    Email: aegean0045@outlook.com 
 </pre>
 
 ## Objective:
@@ -29,7 +29,7 @@ Tel: +33 0789523536    Email: aegean0045@outlook.com
         renowned robotic engineering university
    </td>
     <td>
-      Project proposal: human-machine mutual learning based on <b>neural signal</b><br>
+      Project proposal: motor imagery recognition using human-machine mutural learning based on <b>neural signal</b><br>
     </td>
  </tr>
   
@@ -95,9 +95,10 @@ Tel: +33 0789523536    Email: aegean0045@outlook.com
       June 2019 - Sept 2019
    </td>
     <td>
-      Analysing cerebral oscillation EEG signals during <b>different types of meditation</b> <br>
-      including OP (open-present), FA.
-      Studying unique EEG-based or MEG-based indicator for expert meditator comparing to novice
+      Analysing cerebral oscillation of EEG signals during the <b>meditative practices</b> <br>
+      of Open Presence (OP) and Focused Attention (FA)
+      Searching unique EEG-based or MEG-based indicator for expert meditator comparing to novice
+      Developping semi-automatical EEG signal preprocessing protocal
    </td>
  </tr>
  </table>
@@ -148,20 +149,16 @@ Tel: +33 0789523536    Email: aegean0045@outlook.com
 *Programing language*: R, Java, Python, C++, PHP, HTML, CSS<br>
 *Software*: R-studio, Solidwork, Jupyter Notebook, MATLAB, Nexu32, Github bash, Latex
 
-
-## Reference available on request:
 <!---
+## Reference available on request:
 NO
 |-|-|-|
 | :-: |--| :-: |
 |Professor *Antoine Chaillet*<br>CentraleSupélec, Université Paris-Saclay|         |Director *Maria-Soledad Verstraete*<br>CentraleSupélec, Université Paris-Saclay|
 Display
---->
-
 | | &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | |
 |                         :-:                                            |-|                          :-:                           |
 |Professor *Antoine Chaillet*<br>CentraleSupélec, Université Paris-Saclay| | Director *Maria-Soledad Verstraete*<br>CentraleSupélec, Université Paris-Saclay|
-
-
+--->
 
 
