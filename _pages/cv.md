@@ -95,25 +95,15 @@ Tel: +33 0789523536    Email: aegean0045@outlook.com
       June 2019 - Sept 2019
    </td>
     <td>
-      Analysing cerebral oscillation EEG signals during <b>different states of meditation</b>
+      Analysing cerebral oscillation EEG signals during <b>different types of meditation</b> <br>
+      including OP (open-present), FA.
+      Studying unique EEG-based or MEG-based indicator for expert meditator comparing to novice
    </td>
  </tr>
  </table>
 
 ## leadership experience:
 <table border="0">
- 
- <tr>
-    <td>
-      <i>INSERM, French National Institute <br>
-      of Health and Medical Research</i><br>
-      Bron, France<br>
-      June 2019 - present
-   </td>
-    <td>
-      Analysing cerebral oscillation EEG signals during <b>different states of meditation</b>
-   </td>
- </tr>
  
  <tr>
     <td><i>Ma-para, Pharmacy of Carrefour</i><br>
