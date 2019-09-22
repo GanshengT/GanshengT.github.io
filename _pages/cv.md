@@ -96,9 +96,9 @@ Tel: +86 13162132710    Email: aegean0045@outlook.com
    </td>
     <td>
       Analysing cerebral oscillation of EEG signals during the <b>meditative practices</b> <br>
-      of Open Presence (OP) and Focused Attention (FA)
-      Searching unique EEG-based or MEG-based indicator for expert meditator comparing to novice
-      Developping semi-automatical EEG signal preprocessing protocal
+      of Open Presence (OP) and Focused Attention (FA)<br>
+      Searching unique EEG-based or MEG-based indicator for expert meditator comparing to novice<br>
+      Developping semi-automatical EEG signal preprocessing pipeline
    </td>
  </tr>
  </table>
