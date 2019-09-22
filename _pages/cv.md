@@ -64,8 +64,8 @@ Shanghai, China 	Shanghai Jiao Tong University
       <i>CentraleSupélec</i><br>
         Paris, France<br>
         Sept 2017 - July 2019<br>
-        Engineering school of World's <br>
-      30th University, Paris-Saclay
+        Engineering school, Paris-SaclayUniversity
+
    </td>
     <td>
       Key subjects studied: Advanced Statistics, Machine Learning, Optimisation, <b>Signal Processing</b><br>
@@ -79,7 +79,11 @@ Shanghai, China 	Shanghai Jiao Tong University
  </tr>
   
  <tr>
+<<<<<<< HEAD
     <td>Bachelor of Engineering<br>
+=======
+    <td>Bachelor of nuclear science<br>
+>>>>>>> 345a51a (Update cv.md)
       <i>Shanghai Jiao Tong University</i><br>
         Shanghai, China<br>
         Sept 2015 - July 2017
