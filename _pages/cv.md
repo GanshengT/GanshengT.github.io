@@ -84,8 +84,23 @@ Tel: +33 0789523536    Email: aegean0045@outlook.com
  
 </table>
 
+## Relevant Work/Research Experience
+<table border="0">
+ 
+ <tr>
+    <td>
+      <i>INSERM, French National Institute <br>
+      of Health and Medical Research</i><br>
+      Bron, France<br>
+      June 2019 - Sept 2019
+   </td>
+    <td>
+      Analysing cerebral oscillation EEG signals during <b>different states of meditation</b>
+   </td>
+ </tr>
+ </table>
 
-## Work and leadership experience:
+## leadership experience:
 <table border="0">
  
  <tr>
