@@ -16,24 +16,21 @@ Tel: +33 0789523536    Email: aegean0045@outlook.com
 </pre>
 
 ## Objective:
-**Team-minded** INSERM(*French National Institute of Health and Medical Research*) technicien looking to fill a position as **biostatistical engineer**. Wishing to use strong **signal-analysis** skills and **interdisplinary approaches** to address one of the global challenges - the future healthcare.
+**Team-minded** robotic engineering master in Robotic Institute of Shanghai Jiao Tong University looking to apply for a **phd position** regarding **Brain Computer Interface**. Wishing to use strong **neural signal analysis** skills and **interdisplinary approaches** to address one of the global challenges - the future healthcare.
 
 ## Academic experience:
 
 <table border="0">
    <tr>
-    <td><i>robotic institute</i><br>
+    <td><i>Robotic Institute</i><br>
       <i>Shanghai Jiao Tong University</i><br>
         Shanghai, China<br>
         Sept 2019 - present<br>
         renowned robotic engineering university
    </td>
     <td>
-      Key subjects studied: Advanced Statistics, Machine Learning, Optimisation, <b>Signal Processing</b><br>
-      
-      
-      Integrating in pedagogical teams for <i>Convergence, Intégration, Probabilités et Equations aux Dérivées Partielles</i> classes
-   </td>
+      Project proposal: human-machine mutual learning based on <b>neural signal</b><br>
+    </td>
  </tr>
   
  <tr>
@@ -52,7 +49,6 @@ Tel: +33 0789523536    Email: aegean0045@outlook.com
       art images <br>
       Developped <b>multi-layer</b> graph-based energy minimization methods in <b>computer vision</b><br>
       Ranked top 10 in <i>Huawei 2018 big data challenge</i><br>
-      
       Integrating in pedagogical teams for <i>Convergence, Intégration, Probabilités et Equations aux Dérivées Partielles</i> classes
    </td>
  </tr>
