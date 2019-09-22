@@ -22,11 +22,11 @@ Tel: +33 0789523536    Email: aegean0045@outlook.com
 
 <table border="0">
    <tr>
-    <td><i>Shanghai Jiao Tong University</i><br>
+    <td><i>robotic institute</i><br>
+      <i>Shanghai Jiao Tong University</i><br>
         Shanghai, China<br>
         Sept 2019 - present<br>
-        renowned robotic engineering <br>
-        university
+        renowned robotic engineering university
    </td>
     <td>
       Key subjects studied: Advanced Statistics, Machine Learning, Optimisation, <b>Signal Processing</b><br>
@@ -41,8 +41,8 @@ Tel: +33 0789523536    Email: aegean0045@outlook.com
       <i>CentraleSupélec</i><br>
         Paris, France<br>
         Sept 2017 - July 2019<br>
-        Engineering school of World's 30th <br>
-        University, Paris-Saclay
+        Engineering school of World's <br>
+      30th University, Paris-Saclay
    </td>
     <td>
       Key subjects studied: Advanced Statistics, Machine Learning, Optimisation, <b>Signal Processing</b><br>
