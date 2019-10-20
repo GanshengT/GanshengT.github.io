@@ -30,6 +30,8 @@ Tel: +86 13162132710    Email: aegean0045@outlook.com
    </td>
     <td>
       Project proposal: motor imagery recognition using human-machine mutural learning based on <b>neural signal</b><br>
+      Review of simultaneous examination of eye movement and EEG<br>
+      Functional connectivity analysis on EEG data of subjects who moved their arms with constant velocity
     </td>
  </tr>
   
