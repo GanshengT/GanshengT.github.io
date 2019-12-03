@@ -9,7 +9,7 @@ tags:
 
 AI reinforces bias
 ==================
-I would like to show Les Aveux fidèls first
+I would like to show Les Aveux fidèles first
 
 Under construction
 ==================
