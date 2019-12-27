@@ -26,6 +26,10 @@ L'Aliénation de Science
 水滴筹的产业链(e.g. 众筹-市场目标-产品对口 i.e. 保险) - 符合经济科学，“我”觉其为理性行为，符合社会系统的演化。但是，
 这一发展向量在人的价值上的投影非正甚至为负，与[[1]](#1)概念相似但表现方式不同的行为，需要反思.
 
+La philosophie
+==================
+警惕哲学被玷污： La dialectique de toute versions est accetable car il y a la logique.
+
 References
 ==================
 <a id="1">[1]</a> 
