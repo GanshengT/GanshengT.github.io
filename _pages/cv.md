@@ -29,8 +29,8 @@ Tel: +86 13162132710    Email: aegean0045@outlook.com
         renowned robotic engineering university
    </td>
     <td>
-      Graph-based functional connectivity analysis on EEG-EMG data of stroke rehabilitation where patients were 
-      required to move upper arm wih constant velocity <br>
+      Graph-based functional connectivity analysis on EEG-EMG data of <b>stroke rehabilitation</b> where patients were 
+      required to move upper arms with constant velocity <br>
       Studied the impact of sample size and network depth on loss landscape: multichannel EMG signals were <br>
       converted into an image and fed to convolutional neural network.  <br>
       Binary fist motor imagery recognition using human-machine mutural learning based on <b>neural signal</b><br>
