@@ -11,7 +11,7 @@ redirect_from:
 
 ## Gansheng TAN 
 <pre>
-Room 1305, Mechanical Building B, Shanghai Jiao Tong University, 200210, Shanghai <br>
+Room 303, Mechanical Building B, Shanghai Jiao Tong University, 200210, Shanghai <br>
 Tel: +86 13162132710    Email: aegean0045@outlook.com 
 </pre>
 
