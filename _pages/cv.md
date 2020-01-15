@@ -29,8 +29,7 @@ Tel: +86 13162132710    Email: aegean0045@outlook.com
         renowned robotic engineering university
    </td>
     <td>
-      Analyzed graph-based functional connectivity of EEG-EMG data in <b>stroke rehabilitation</b> where patients were 
-      required to move upper arms with constant velocity <br>
+      Analyzed the topological <b>graphical structure</b> of EEG-EMG functional connectivity in <b>stroke rehabilitation</b> where patients were required to move upper arms with constant velocity <br>
       Studied the impact of sample size and network depth on loss landscape: multichannel EMG signals were converted into an image and fed to convolutional neural network. <br>
       Binary fist motor imagery recognition using human-machine mutural learning based on <b>neural signal</b><br>
       Review of applications and challenges of simultaneous examination of eye movement and EEG<br>
@@ -98,10 +97,12 @@ Tel: +86 13162132710    Email: aegean0045@outlook.com
       June 2019 - Sept 2019
    </td>
     <td>
-      Analysing cerebral oscillation of EEG signals during the <b>meditative practices</b> <br>
+      Analyzed cerebral oscillation of EEG signals during the <b>meditative practices</b> <br>
       of Open Presence (OP) and Focused Attention (FA)<br>
+      <!---
       Searching unique EEG-based or MEG-based indicator for expert meditator comparing to novice<br>
-      Developping semi-automatical EEG signal preprocessing pipeline
+      --->
+      Developped semi-automatical EEG signal preprocessing pipeline
    </td>
  </tr>
  </table>
