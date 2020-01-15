@@ -29,9 +29,12 @@ Tel: +86 13162132710    Email: aegean0045@outlook.com
         renowned robotic engineering university
    </td>
     <td>
-      Project proposal: motor imagery recognition using human-machine mutural learning based on <b>neural signal</b><br>
-      Review of simultaneous examination of eye movement and EEG<br>
-      Functional connectivity analysis on EEG data of subjects who moved their arms with constant velocity
+      Graph-based functional connectivity analysis on EEG-EMG data of stroke rehabilitation where patients were <br>
+      required to move upper arm wih constant velocity
+      Studied the impact of sample size and network depth on loss landscape: multichannel EMG signals were <br>
+      converted into an image and fed to convolutional neural network. 
+      Binary fist motor imagery recognition using human-machine mutural learning based on <b>neural signal</b><br>
+      Review of application and challenges of simultaneous examination of eye movement and EEG<br>
     </td>
  </tr>
   
