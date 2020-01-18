@@ -34,7 +34,7 @@ Gansheng TAN believes that
 
 Other activities
 ================
-Believing an open exchange of ideas accelerates scientific progress towards solving our most persistent problems. Gansheng TAN participate in a science project **Open Science**, the goal of which is to promote a open science platform (_COS_)[https://cos.io/] and a new publishing register pipeline. Gansheng TAN is gathering a voluntary team in the purpose of analyzing biological data of stroke patient and explaining the validity of various therapy (e.g. TMS)<br><br>
+Believing an open exchange of ideas accelerates scientific progress towards solving our most persistent problems. Gansheng TAN participate in a science project **Open Science**, the goal of which is to promote a open science platform (*COS*)[https://cos.io/] and a new publishing register pipeline. Gansheng TAN is gathering a voluntary team in the purpose of analyzing biological data of stroke patient and explaining the validity of various therapy (e.g. TMS)<br><br>
 
 
 
