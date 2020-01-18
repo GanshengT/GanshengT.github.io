@@ -79,11 +79,7 @@ Shanghai, China 	Shanghai Jiao Tong University
  </tr>
   
  <tr>
-<<<<<<< HEAD
     <td>Bachelor of Engineering<br>
-=======
-    <td>Bachelor of nuclear science<br>
->>>>>>> 345a51a (Update cv.md)
       <i>Shanghai Jiao Tong University</i><br>
         Shanghai, China<br>
         Sept 2015 - July 2017

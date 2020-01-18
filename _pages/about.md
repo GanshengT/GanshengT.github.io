@@ -40,14 +40,6 @@ Other activities
 ================
 Believing an open exchange of ideas accelerates scientific progress towards solving our most persistent problems. Gansheng TAN participate in a science project **Open Science**, the goal of which is to promote a open science platform (*COS*)[https://cos.io/] and a new publishing register pipeline. Gansheng TAN is contributing on open-source software for electrophysiology data acquition, data analytics, statistical models, and brain computer interface. <br><br>
 
-Project list
-============
-
-Feel free to contact Gansheng TAN by email if you are interested in one of the following projects
-- [ ] artificial blood, the goal is to find the red blood cell substitutes 
-- [ ] biological and medical image restortion and reinforcement by minimizing the multi-layer graph-based energy function
-- [ ] Language prouction research concerning ERP(Event-Related Potential), EEG or MEG(Magnetoencephalography). The main purpose is to create speech by using brain signals. (partly achieved thanks to AI)
-- [X] Relevant feature engineering for EEG signals during meditation
 
 Gansheng TAN has initiated a social projet **Tandem** which aims to provide a platform and give those of commun interest or seeking a new skill an oppotunity to help each other. Gansheng was an instructor on *Analysis, probability and Partial Differential Equation* at CentraleSupelec. Gansheng Tan also contributed to R-packages such as *eeglab* and *eegkits*. <br><br>
 Gansheng TAN plays guitar and drums when he started the high school, and he praticed trombone when he was in [La band'à joe](http://www.bandajoe.com/?page=accueil_accueil). He created a band *Aegean without sea* at CentraleSupélec and had several performing at school festivial and at Univercité Paris Sud. 
