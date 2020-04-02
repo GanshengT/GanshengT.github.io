@@ -30,6 +30,9 @@ La philosophie
 ==================
 警惕哲学被玷污： La dialectique de toute versions est accetable car il y a la logique.
 
+## The neuro-philsophy: 
+With the growing understanding in a direction about neural network and brain-inspired intelligence, I can not help retrospecting "Was wirklich ist, das ist vernünftig" (The real is rational, and the rational is real). (Without) losing generality, let us take the rational as consciousness, or the fundamental drive to make decisions and the decisions themselves. Can we (we can) deduce that "the world (dynamic environment) is merely the simulation of consciousness". Despite the discussion and illustration of "the real" in the film and television series **Westworld**, we should not put aside the irreversible term - **time**.  
+
 References
 ==================
 <a id="1">[1]</a> 
