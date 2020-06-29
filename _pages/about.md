@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Gansheng TAN was a techinicien at [INSERM U1028 Centre de Recherche en Neurosciences de Lyon](https://sfrsantelyonest.univ-lyon1.fr/centre51-inserm-u1028-cnrs-umr5292.html) as well as a research scientist in [L2S: Laboratoire des signaux et système](http://www.l2s.centralesupelec.fr/) whose research spans a cross-section of engineering, data science, and neuroscience. 
+Gansheng TAN is a master student in Institude of Robotic, Shanghai Jiao Tong University, currently working on the application of brain complexity and cortico-muscular connectivy on stroke patients. He was a engineer at [INSERM U1028 Centre de Recherche en Neurosciences de Lyon](https://sfrsantelyonest.univ-lyon1.fr/centre51-inserm-u1028-cnrs-umr5292.html) as well as a research fellow in [L2S: Laboratoire des signaux et système](http://www.l2s.centralesupelec.fr/) whose research spans a cross-section of engineering, data science, and neuroscience. 
 
 Academic Research
 =================
