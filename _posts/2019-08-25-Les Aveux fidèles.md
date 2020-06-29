@@ -23,7 +23,7 @@ qu'on me juge.
 
 L'Aliénation de Science
 ==================
-水滴筹的产业链(e.g. 众筹-市场目标-产品对口 i.e. 保险) - 符合经济科学，“我”觉其为理性行为，符合社会系统的演化。但是，
+水滴筹的产业链(e.g. 众筹-市场目标-产品对口 i.e. 向保险产业共享曾遭遇事故的顾客信息) - 符合经济科学，“我”觉其为理性行为，符合社会系统的演化。但是，
 这一发展向量在人的价值上的投影非正甚至为负，与[[1]](#1)概念相似但表现方式不同的行为，需要反思.
 
 La philosophie
@@ -31,7 +31,7 @@ La philosophie
 警惕哲学被玷污： La dialectique de toute versions est accetable car il y a la logique.
 
 ## The neuro-philsophy: 
-With the growing understanding in a direction about neural network and brain-inspired intelligence, I can not help retrospecting "Was wirklich ist, das ist vernünftig" (The real is rational, and the rational is real). (Without) losing generality, let us take the rational as consciousness, or the fundamental drive to make decisions and the decisions themselves. Can we (we can) deduce that "the world (dynamic environment) is merely the simulation of consciousness". Despite the discussion and illustration of "the real" in the film and television series **Westworld**, we should not put aside the irreversible term - **time**.  
+With the growing understanding about neural network and brain-inspired intelligence, I can not help retrospecting "Was wirklich ist, das ist vernünftig" (The real is rational, and the rational is real). (Without) losing generality, let us take the rationale as consciousness, or the fundamental drive to make decisions and the decisions themselves. Can we (we can) deduce that "the world (dynamic environment) is merely the simulation of consciousness". There are cogent discussion and illustration of "the real" in films and television series such as **Westworld**. Still, the irreversible element - **time** should not be put aside. An argumrnt opposed to 'the real is rational' derives from the probabilistic nature of human implusion. In other worlds, an individual makes irrational decisions (judged by his/her surroundings) throughtout his/her life. Without a ground true measure of the rationality, this disclaimation is tenuous. On the other hand, as the information flow in the head is modelled more and more delicately via neuroimaging tools. I am prone to believe the creation/generation of consciousness depends on the measuring and intervening resolution (temporal, spatial as well as causal). More discussions about modelling and truth are present in the other chapter.
 
 References
 ==================
