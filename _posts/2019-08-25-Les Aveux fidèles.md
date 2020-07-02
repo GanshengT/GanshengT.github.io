@@ -43,6 +43,7 @@ Jérôme Lamy et Arnaud Saint-Martin,
 « Marx, un spectre qui ne hante plus les Science studies ? », 
 Cahiers d’histoire. 
 Revue d’histoire critique, 124 | 2014, 161-182.
+
 <a id="2">[2]</a>
 Beck, Geoff. "Causation, information, and physics." Studies in History and Philosophy of Science Part B: Studies in History and Philosophy of Modern Physics 66 (2019): 45-51.
 
