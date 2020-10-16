@@ -71,6 +71,7 @@ La science
 La philosophie
 ==================
 警惕哲学被玷污： La dialectique de toute versions est accetable car il y a la logique.
+One can be banal in view of the society, but must live up to self-defined excellence.
 
 ## The neuro-philsophy: 
 With the growing understanding about neural network and brain-inspired intelligence, I can not help retrospecting "Was wirklich ist, das ist vernünftig" (The real is rational, and the rational is real). (Without) losing generality, let us take the rationale as consciousness, or the fundamental drive to make decisions and the decisions themselves. Can we (we can) deduce that "the world (dynamic environment) is merely the simulation of consciousness". There are cogent discussion and illustration of "the real" in films and television series such as **Westworld**. Still, the irreversible element - **time** should not be put aside. An argumrnt opposed to 'the real is rational' derives from the probabilistic nature of human implusion. In other worlds, an individual makes irrational decisions (judged by his/her surroundings) throughtout his/her life. Without a ground true measure of the rationality, this disclaimation is tenuous. On the other hand, as the information flow in the head is modelled more and more delicately via neuroimaging tools. I am prone to believe the creation/generation of consciousness depends on the measuring and intervening resolution (temporal, spatial as well as causal). More discussions about modelling and truth are present in the other chapter.
