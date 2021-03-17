@@ -147,7 +147,7 @@ Tel: +86 13162132710    Email: aegean0045@outlook.com
 ## Language Skills:
 *Chinese*: native language<br>
 *French*: full professional proficiency (DALF C1)<br>
-*English*: professional working proficiency (597 TOFEL iPT)<br>
+*English*: professional working proficiency (650/677 TOFEL ITP, 101/120 TOFEL iBT)<br>
 
 ## Computer Skills:
 *Programing language*: R, Java, Python, C++, PHP, HTML, CSS<br>
