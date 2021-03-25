@@ -165,5 +165,4 @@ Display
 |Professor *Antoine Chaillet*<br>CentraleSupélec, Université Paris-Saclay| | Director *Maria-Soledad Verstraete*<br>CentraleSupélec, Université Paris-Saclay|
 --->
 
-
-<a href="/files/CV_18Mar_GT.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
+<a href="/files/CV_18Mar_GT.pdf">Download File</a>
