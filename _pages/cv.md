@@ -166,6 +166,4 @@ Display
 --->
 
 
-{% raw %}
-<button onclick="window.open('/files/CV_18Mar_GT.pdf')">Download</button>
-{% endraw %}
+<a href="/files/CV_18Mar_GT.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
