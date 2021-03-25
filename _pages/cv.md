@@ -166,3 +166,6 @@ Display
 --->
 
 
+{% raw %}
+<button onclick="window.open('/files/CV_18Mar_GT.pdf')">Download</button>
+{% endraw %}
