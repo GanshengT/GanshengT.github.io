@@ -769,7 +769,7 @@ for con_sigDiff in cons_sigDiff:
 
 
     
-![png](/_posts/CMMN_stat_iVC_files/CMMN_stat_iVC_9_0.png)
+![png](/files/CMMN_stat_iVC_files/CMMN_stat_iVC_9_0.png)
     
 
 
