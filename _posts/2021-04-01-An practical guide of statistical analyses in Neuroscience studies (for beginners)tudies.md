@@ -1,7 +1,7 @@
 ---
 title: 'An practical guide of statistical analyses in Neuroscience studies (for beginners)'
 date: 2021-04-01
-permalink: /posts/2021-04-An practical guide of statistical analyses in Neuroscience studies (for beginners)/
+permalink: /posts/2021/04/An practical guide of statistical analyses in Neuroscience studies (for beginners)/
 
 tags:
   - Statistics
@@ -769,7 +769,7 @@ for con_sigDiff in cons_sigDiff:
 
 
     
-![png](../CMMN_stat_iVC_files/CMMN_stat_iVC_9_0.png)
+![png](/_posts/CMMN_stat_iVC_files/CMMN_stat_iVC_9_0.png)
     
 
 
