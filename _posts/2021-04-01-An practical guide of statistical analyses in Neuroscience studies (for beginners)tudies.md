@@ -775,97 +775,97 @@ for con_sigDiff in cons_sigDiff:
 
 
     
-![png](CMMN_stat_iVC_files/CMMN_stat_iVC_9_1.png)
+![png](/filesCMMN_stat_iVC_files/CMMN_stat_iVC_9_1.png)
     
 
 
 
     
-![png](CMMN_stat_iVC_files/CMMN_stat_iVC_9_2.png)
+![png](/filesCMMN_stat_iVC_files/CMMN_stat_iVC_9_2.png)
     
 
 
 
     
-![png](CMMN_stat_iVC_files/CMMN_stat_iVC_9_3.png)
+![png](/filesCMMN_stat_iVC_files/CMMN_stat_iVC_9_3.png)
     
 
 
 
     
-![png](CMMN_stat_iVC_files/CMMN_stat_iVC_9_4.png)
+![png](/filesCMMN_stat_iVC_files/CMMN_stat_iVC_9_4.png)
     
 
 
 
     
-![png](CMMN_stat_iVC_files/CMMN_stat_iVC_9_5.png)
+![png](/filesCMMN_stat_iVC_files/CMMN_stat_iVC_9_5.png)
     
 
 
 
     
-![png](CMMN_stat_iVC_files/CMMN_stat_iVC_9_6.png)
+![png](/filesCMMN_stat_iVC_files/CMMN_stat_iVC_9_6.png)
     
 
 
 
     
-![png](CMMN_stat_iVC_files/CMMN_stat_iVC_9_7.png)
+![png](/filesCMMN_stat_iVC_files/CMMN_stat_iVC_9_7.png)
     
 
 
 
     
-![png](CMMN_stat_iVC_files/CMMN_stat_iVC_9_8.png)
+![png](/filesCMMN_stat_iVC_files/CMMN_stat_iVC_9_8.png)
     
 
 
 
     
-![png](CMMN_stat_iVC_files/CMMN_stat_iVC_9_9.png)
+![png](/filesCMMN_stat_iVC_files/CMMN_stat_iVC_9_9.png)
     
 
 
 
     
-![png](CMMN_stat_iVC_files/CMMN_stat_iVC_9_10.png)
+![png](/filesCMMN_stat_iVC_files/CMMN_stat_iVC_9_10.png)
     
 
 
 
     
-![png](CMMN_stat_iVC_files/CMMN_stat_iVC_9_11.png)
+![png](/filesCMMN_stat_iVC_files/CMMN_stat_iVC_9_11.png)
     
 
 
 
     
-![png](CMMN_stat_iVC_files/CMMN_stat_iVC_9_12.png)
+![png](/filesCMMN_stat_iVC_files/CMMN_stat_iVC_9_12.png)
     
 
 
 
     
-![png](CMMN_stat_iVC_files/CMMN_stat_iVC_9_13.png)
+![png](/filesCMMN_stat_iVC_files/CMMN_stat_iVC_9_13.png)
     
 
 
 
     
-![png](CMMN_stat_iVC_files/CMMN_stat_iVC_9_14.png)
+![png](/filesCMMN_stat_iVC_files/CMMN_stat_iVC_9_14.png)
     
 
 
 
     
-![png](CMMN_stat_iVC_files/CMMN_stat_iVC_9_15.png)
+![png](/filesCMMN_stat_iVC_files/CMMN_stat_iVC_9_15.png)
     
 
 
 
     
-![png](CMMN_stat_iVC_files/CMMN_stat_iVC_9_16.png)
+![png](/filesCMMN_stat_iVC_files/CMMN_stat_iVC_9_16.png)
     
 
 
@@ -890,7 +890,7 @@ for con_sigDiff in cons_sigDiff:
 
 
     
-![png](CMMN_stat_iVC_files/CMMN_stat_iVC_11_1.png)
+![png](/filesCMMN_stat_iVC_files/CMMN_stat_iVC_11_1.png)
     
 
 
@@ -900,7 +900,7 @@ for con_sigDiff in cons_sigDiff:
 
 
     
-![png](CMMN_stat_iVC_files/CMMN_stat_iVC_11_3.png)
+![png](/filesCMMN_stat_iVC_files/CMMN_stat_iVC_11_3.png)
     
 
 
@@ -910,7 +910,7 @@ for con_sigDiff in cons_sigDiff:
 
 
     
-![png](CMMN_stat_iVC_files/CMMN_stat_iVC_11_5.png)
+![png](/filesCMMN_stat_iVC_files/CMMN_stat_iVC_11_5.png)
     
 
 
@@ -920,7 +920,7 @@ for con_sigDiff in cons_sigDiff:
 
 
     
-![png](CMMN_stat_iVC_files/CMMN_stat_iVC_11_7.png)
+![png](/filesCMMN_stat_iVC_files/CMMN_stat_iVC_11_7.png)
     
 
 
@@ -1300,7 +1300,7 @@ ax = sns.boxplot(x="contraction_group", y=res_var, hue="subj_group", data=df, pa
 
 
     
-![png](CMMN_stat_iVC_files/CMMN_stat_iVC_16_1.png)
+![png](/filesCMMN_stat_iVC_files/CMMN_stat_iVC_16_1.png)
     
 
 
@@ -1347,7 +1347,7 @@ with sns.axes_style("white"):
 
 
     
-![png](CMMN_stat_iVC_files/CMMN_stat_iVC_18_0.png)
+![png](/filesCMMN_stat_iVC_files/CMMN_stat_iVC_18_0.png)
     
 
 
@@ -1395,7 +1395,7 @@ fig.savefig(con_groupDiff_push_g_fName)
 
 
     
-![png](CMMN_stat_iVC_files/CMMN_stat_iVC_19_0.png)
+![png](/filesCMMN_stat_iVC_files/CMMN_stat_iVC_19_0.png)
     
 
 
@@ -1458,7 +1458,7 @@ plt.legend(loc='upper left', bbox_to_anchor = (0.7,1),prop={'size': 24})
 
 
     
-![png](CMMN_stat_iVC_files/CMMN_stat_iVC_20_2.png)
+![png](/filesCMMN_stat_iVC_files/CMMN_stat_iVC_20_2.png)
     
 
 
@@ -1658,25 +1658,25 @@ for i in range(len(related_cons)):
 
 
     
-![png](CMMN_stat_iVC_files/CMMN_stat_iVC_23_1.png)
+![png](/filesCMMN_stat_iVC_files/CMMN_stat_iVC_23_1.png)
     
 
 
 
     
-![png](CMMN_stat_iVC_files/CMMN_stat_iVC_23_2.png)
+![png](/filesCMMN_stat_iVC_files/CMMN_stat_iVC_23_2.png)
     
 
 
 
     
-![png](CMMN_stat_iVC_files/CMMN_stat_iVC_23_3.png)
+![png](/filesCMMN_stat_iVC_files/CMMN_stat_iVC_23_3.png)
     
 
 
 
     
-![png](CMMN_stat_iVC_files/CMMN_stat_iVC_23_4.png)
+![png](/filesCMMN_stat_iVC_files/CMMN_stat_iVC_23_4.png)
     
 
 
@@ -1727,7 +1727,7 @@ fig.savefig(con_reg_g_fName)
 
 
     
-![png](CMMN_stat_iVC_files/CMMN_stat_iVC_24_0.png)
+![png](/filesCMMN_stat_iVC_files/CMMN_stat_iVC_24_0.png)
     
 
 
@@ -1832,7 +1832,7 @@ with sns.axes_style("white"):
 
 
     
-![png](CMMN_stat_iVC_files/CMMN_stat_iVC_27_0.png)
+![png](/filesCMMN_stat_iVC_files/CMMN_stat_iVC_27_0.png)
     
 
 
@@ -1880,7 +1880,7 @@ fig.savefig(con_groupDiff_pull_g_fName)
 
 
     
-![png](CMMN_stat_iVC_files/CMMN_stat_iVC_28_0.png)
+![png](/filesCMMN_stat_iVC_files/CMMN_stat_iVC_28_0.png)
     
 
 
@@ -1950,7 +1950,7 @@ plt.legend(loc='upper left', bbox_to_anchor = (0.7,1),prop={'size': 24})
 
 
     
-![png](CMMN_stat_iVC_files/CMMN_stat_iVC_29_2.png)
+![png](/filesCMMN_stat_iVC_files/CMMN_stat_iVC_29_2.png)
     
 
 
@@ -2180,31 +2180,31 @@ for i in range(len(related_cons)):
 
 
     
-![png](CMMN_stat_iVC_files/CMMN_stat_iVC_32_1.png)
+![png](/filesCMMN_stat_iVC_files/CMMN_stat_iVC_32_1.png)
     
 
 
 
     
-![png](CMMN_stat_iVC_files/CMMN_stat_iVC_32_2.png)
+![png](/filesCMMN_stat_iVC_files/CMMN_stat_iVC_32_2.png)
     
 
 
 
     
-![png](CMMN_stat_iVC_files/CMMN_stat_iVC_32_3.png)
+![png](/filesCMMN_stat_iVC_files/CMMN_stat_iVC_32_3.png)
     
 
 
 
     
-![png](CMMN_stat_iVC_files/CMMN_stat_iVC_32_4.png)
+![png](/filesCMMN_stat_iVC_files/CMMN_stat_iVC_32_4.png)
     
 
 
 
     
-![png](CMMN_stat_iVC_files/CMMN_stat_iVC_32_5.png)
+![png](/filesCMMN_stat_iVC_files/CMMN_stat_iVC_32_5.png)
     
 
 
@@ -2256,6 +2256,6 @@ fig.savefig(con_reg_pull_g_fName)
 
 
     
-![png](CMMN_stat_iVC_files/CMMN_stat_iVC_33_0.png)
+![png](/filesCMMN_stat_iVC_files/CMMN_stat_iVC_33_0.png)
     
 
