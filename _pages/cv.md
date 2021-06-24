@@ -11,12 +11,12 @@ redirect_from:
 
 ## Gansheng TAN 
 <pre>
-Room 304, Mechanical Building B, Shanghai Jiao Tong University, 200210, Shanghai, China <br>
+Room 304, Mechanical Building B, Shanghai Jiao Tong University, 800 Dongchuan Rd., 200210, Shanghai, China <br>
 Tel: +86 13162132710    Email: aegean0045@outlook.com; gansheng.tan@student.ecp.fr 
 </pre>
 
 ## Objective:
-**Team-minded** biomedical engineering master student in Robotic Institute of Shanghai Jiao Tong University looking to apply for a **phd position** regarding **Brain Computer Interface**. Wishing to use strong **neural signal analysis** skills and **interdisplinary approaches** to address one of the global challenges - the future healthcare.
+**Team-minded** biomedical engineering master student in Robotic Institute of Shanghai Jiao Tong University looking to apply for a **Neuroscience PhD program** regarding **Brain Computer Interface**. Wishing to use strong **neural signal analysis** skills and **interdisplinary approaches** to address one of the global challenges - the future healthcare.
 
 ## Academic experience:
 
