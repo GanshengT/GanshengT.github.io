@@ -56,7 +56,7 @@ Tel: +86 13162132710    Email: aegean0045@outlook.com; gansheng.tan@student.ecp.
  </tr>
   
  <tr>
-    <td>Bachelor of nuclear science<br>
+    <td>Bachelor of Engineering<br>
       <i>Shanghai Jiao Tong University</i><br>
         Shanghai, China<br>
         Sept 2015 - July 2017
