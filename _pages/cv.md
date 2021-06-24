@@ -29,6 +29,7 @@ Tel: +86 13162132710    Email: aegean0045@outlook.com; gansheng.tan@student.ecp.
         renowned robotic engineering university
    </td>
     <td>
+      Proposed Corticomuscular Motor Network (CMMN) as a novel diagnostic and therapeutic option for motor impairments after stroke <br> 
       Analyzed the topological <b>graphical structure</b> of EEG-EMG functional connectivity in <b>stroke rehabilitation</b> where patients were required to move upper arms with constant velocity <br>
       Studied the impact of sample size and network depth on loss landscape: multichannel EMG signals were converted into an image and fed to convolutional neural network. <br>
       Binary fist motor imagery recognition using human-machine mutural learning based on <b>neural signal</b><br>
