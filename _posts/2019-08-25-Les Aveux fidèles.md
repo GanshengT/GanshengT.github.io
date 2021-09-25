@@ -16,7 +16,7 @@ du rasoir d'Ockham, j'écrirai comme je parle à moi-même, peu n'import quelle 
 de l'autre,  cela me permettra exprimer mes réflexions brutes sans qu'ils soient partiellement cachées à cause de la honte ou alors la peur
 qu'on me juge. 
 
-只是一个小总结，诚实一点，想所致，笔所写，极具主观，只是希望数年之后不会丢掉了曾经自认为有趣的灵魂。所以也就不限语言了。
+这个宇宙中，有的存在在寻找答案，有的存在在寻找问题，有的问题是一个问题的答案，有的答案带来了新的问题，哲学的存在就是为问题寻找问题，为答案寻找答案。只是一个小总结，诚实一点，想所致，笔所写，极具主观，只是希望数年之后不会丢掉了曾经自认为有趣的灵魂。所以也就不限语言了。
 
 其一，人 - 本我，需求的拓扑关系，社会人，世界人，
 其二，数学，成为了研究和应用的基础工具。数字与语言的相似性，Note数学不是“理所当然”的真理，是用来近似真理的一种mapping
@@ -84,6 +84,8 @@ As probing deep in developmental neuroscience, an intrigue question pops out: Wh
 ## Parlons-nous le desir
 修辞：缺失部分美的能力，但逻辑和当下-另一种逻辑
 欲望平等论
+
+
 
 References
 ==================
