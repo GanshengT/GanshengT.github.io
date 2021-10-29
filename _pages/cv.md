@@ -11,17 +11,25 @@ redirect_from:
 
 ## Gansheng TAN 
 <pre>
-Room 304, Mechanical Building B, Shanghai Jiao Tong University, 800 Dongchuan Rd., 200210, Shanghai, China <br>
-Tel: +86 13162132710    Email: aegean0045@outlook.com; gansheng.tan@student.ecp.fr 
+Washington University in St. Louis, 520 S Euclid Ave, St. Louis, MO 63110, USA <br>
+Tel: +1 (314) 745-9303    Email: g.tan@wustl.edu 
 </pre>
 
 ## Objective:
-**Team-minded** biomedical engineering master student in Robotic Institute of Shanghai Jiao Tong University looking to apply for a **Neuroscience PhD program** regarding **Brain Computer Interface**. Wishing to use strong **neural signal analysis** skills and **interdisplinary approaches** to address one of the global challenges - the future healthcare.
+**Team-minded** biomedical engineering master student in Robotic Institute of Shanghai Jiao Tong University looking to apply for a **Biomedical engineering PhD program** regarding **Brain Computer Interface**. Wishing to use strong **neural signal analysis** skills and **interdisplinary approaches** to address one of the global challenges - the future healthcare.
 
 ## Academic experience:
 
 <table border="0">
    <tr>
+     <td><i>Department of NeuroSurgery</i><br>
+      <i>Washington University in St. Louis</i><br>
+        MO, USA<br>
+        Sept 2021 - present<br>
+   </td>
+    <td>
+      Studying physiological effects of transcutaneous auricular vagus nerve stimulation <br>
+   </td>
     <td><i>Robotic Institute</i><br>
       <i>Shanghai Jiao Tong University</i><br>
         Shanghai, China<br>
