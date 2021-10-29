@@ -21,7 +21,7 @@ Tel: +1 (314) 745-9303    Email: g.tan@wustl.edu
 ## Academic experience:
 
 <table border="0">
-   <tr>
+<tr>
      <td><i>Department of NeuroSurgery</i><br>
       <i>Washington University in St. Louis</i><br>
         MO, USA<br>
@@ -30,6 +30,9 @@ Tel: +1 (314) 745-9303    Email: g.tan@wustl.edu
     <td>
       Studying physiological effects of transcutaneous auricular vagus nerve stimulation <br>
    </td>
+ </tr>
+ 
+<tr>
     <td><i>Robotic Institute</i><br>
       <i>Shanghai Jiao Tong University</i><br>
         Shanghai, China<br>
