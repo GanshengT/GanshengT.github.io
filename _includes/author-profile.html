@@ -127,6 +127,9 @@
       {% if author.Researchgate %}
         <li><a href="{{ author.Researchgate }}"><i class="ai ai-researchgate ai-fw" aria-hidden="true"></i> Researchgate</a></li>
       {% endif %}	
+      {% if author.publons %}
+        <li><a href="{{ author.publons }}"><i class="ai ai-publons ai-fw" aria-hidden="true"></i> publons</a></li>
+      {% endif %}	
     </ul>
   </div>
 </div>
