@@ -153,9 +153,21 @@
       {% if author.youtube %}
         <li><a href="https://www.youtube.com/@{{ author.youtube }}"><i class="fab fa-fw fa-youtube icon-pad-right" aria-hidden="true"></i>YouTube</a></li>
       {% endif %}
+<<<<<<< HEAD
       {% if author.zhihu %}
       <li><a href="https://www.zhihu.com/people/{{ author.zhihu }}"><i class="fab fa-fw fa-zhihu icon-pad-right" aria-hidden="true"></i>Zhihu</a></li>
       {% endif %}      
+=======
+       {% if author.CV-HAL %}
+        <li><a href="{{ author.CV-HAL }}"><i class="fa fa-fw fa-chain" aria-hidden="true"></i> CV-HAL</a></li>
+      {% endif %}
+      {% if author.Researchgate %}
+        <li><a href="{{ author.Researchgate }}"><i class="ai ai-researchgate ai-fw" aria-hidden="true"></i> Researchgate</a></li>
+      {% endif %}	
+      {% if author.publons %}
+        <li><a href="{{ author.publons }}"><i class="ai ai-publons ai-fw" aria-hidden="true"></i> publons</a></li>
+      {% endif %}	
+>>>>>>> dae0f57 (Update author-profile.html)
     </ul>
   </div>
 </div>
