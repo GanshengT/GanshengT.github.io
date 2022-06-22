@@ -151,49 +151,6 @@ analytics:
   google:
     tracking_id          :
 
-<<<<<<< HEAD
-=======
-
-# Site Author
-author:
-  name             : "M.S. TAN Gansheng"
-  avatar           : "T_avater.jpeg"
-  bio              : "Second year engineering student at CentraleSupélec, researcher in neuro data science"
-  location         : "Paris, France"
-  employer         : "https://www.inserm.fr/"
-  pubmed           : #""
-  googlescholar    : "GanshengTAN"
-  email            : "aegean0045@outlook.com"
-  researchgate     : "https://www.researchgate.net/profile/Gansheng_Tan"
-  uri              :
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         : "https://www.facebook.com/profile.php?id=100015196184513"
-  foursquare       :
-  github           : "ganshengT"
-  google_plus      :
-  keybase          :
-  instagram        : "https://www.instagram.com/nathan_gansheng/?hl=fr"
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : "gansheng-tan-390435147"
-  orcid            : "https://orcid.org/0000-0001-8785-9499"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : https://stackoverflow.com/users/11523240/gansheng
-  steam            :
-  tumblr           :
-  twitter          : #"replacethistwitterhandle"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
-
-
->>>>>>> a67c0dc (Update _config.yml)
 # Reading Files
 include:
   - .htaccess
