@@ -16,7 +16,18 @@ Tel: +1 (314) 745-9303    Email: g.tan@wustl.edu
 </pre>
 
 ## Objective:
-**Team-minded** biomedical engineering master student in Robotic Institute of Shanghai Jiao Tong University looking to apply for a **Biomedical engineering PhD program** regarding **Brain Computer Interface**. Wishing to use strong **neural signal analysis** skills and **interdisplinary approaches** to address one of the global challenges - the future healthcare.
+I am a self-motivated and team-minded Ph.D. student with 6 years of experience in **neuromodulation research** and bioelectrical signal processing. I seek to understand neural plasticity through electrophysiology, interact with these signals using an interdisciplinary approach, and develop new effective treatments for nervous system-related diseases. 
+
+## Education
+09/2022 – present     Ph.D. Biomedical Engineering  
+MO, USA.                Washington University in St. Louis
+09/2019 – 03/2022    M.Eng. Mechanical Engineering  
+Shanghai, China        Shanghai Jiao Tong University 
+06/2017 – 09/2019     Diplôme d'ingénieur (postgraduate degree in engineering) 
+Île-de-France, 	CentraleSupélec 
+France 	Topics: Advanced Statistics, Machine Learning, Signal Processing 
+09/2015 – 06/2019     B.Eng.  
+Shanghai, China 	Shanghai Jiao Tong University
 
 ## Academic experience:
 
@@ -177,4 +188,4 @@ Display
 |Professor *Antoine Chaillet*<br>CentraleSupélec, Université Paris-Saclay| | Director *Maria-Soledad Verstraete*<br>CentraleSupélec, Université Paris-Saclay|
 --->
 
-<a href="/files/CV_May22_GT.pdf">See the latest CV</a>
+<a href="/files/CV_Nov22_GT.pdf">See the latest CV</a>
