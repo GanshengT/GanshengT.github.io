@@ -18,4 +18,10 @@ As I look deeper into the mechanism of our nervous system, I become more prone t
 By addressing the relationship between human perception and existence, we would know how to communicate findings more efficiency as a researcher. More importantly, we might be able to justify the way our knowledge is gained. Eventually, we could find a way to describe an existence that is hidden from our senses.
 
 # Does instrument provide additional information?
-An instrument is usually considered as a device that translates signals to sensible signals.
+An instrument is usually considered as a device that translates signals to sensible signals. 
+
+# What is the sixth sense?
+Deduction, thinking, prediction, memory are higher cognitive functions that guide our behavior befond the simple reflex from stimuli. New knowledge is formed through reasoning contemplating. Note that the rules of discovery, validation, or propagation of new knowledge have been taught since we had memory and interacted with the environment. The fundamental question is that: Is the principle of knowledge accumulation restricted by our senses?
+
+
+
