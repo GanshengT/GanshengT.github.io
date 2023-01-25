@@ -23,5 +23,7 @@ An instrument is usually considered as a device that translates signals to sensi
 # What is the sixth sense?
 Deduction, thinking, prediction, memory are higher cognitive functions that guide our behavior befond the simple reflex from stimuli. New knowledge is formed through reasoning contemplating. Note that the rules of discovery, validation, or propagation of new knowledge have been taught since we had memory and interacted with the environment. The fundamental question is that: Is the principle of knowledge accumulation restricted by our senses?
 
+# The evolution and relationship between biological structure and abstract concept
+For example, does the "impetus" exist before the evolution pf any biological structure?:
 
 
