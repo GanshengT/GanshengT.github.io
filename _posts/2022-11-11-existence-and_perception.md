@@ -24,6 +24,7 @@ An instrument is usually considered as a device that translates signals to sensi
 Deduction, thinking, prediction, memory are higher cognitive functions that guide our behavior befond the simple reflex from stimuli. New knowledge is formed through reasoning contemplating. Note that the rules of discovery, validation, or propagation of new knowledge have been taught since we had memory and interacted with the environment. The fundamental question is that: Is the principle of knowledge accumulation restricted by our senses?
 
 # The evolution and relationship between biological structure and abstract concept
-For example, does the "impetus" exist before the evolution pf any biological structure?:
+For example, does the "impetus" exist before the evolution pf any biological structure? People are doing empirical science in neuroscience. we might need a methodologies/framework to go beyond the boundary of knowledge/experience/prior knowledge of the nervous system? I think this is one of the impetus related to curiosity in human beings. Multimodal measurement might be a way to expose the conflict and therefore propel to the emergence of a new framework. Readers are encouraged to read Chapter 17 of "Principles of Neural Science, 6e"
+
 
 
