@@ -7,7 +7,8 @@ tags:
   - Statistics
   - Neuroscience
 ---
-# This notebook aims to provide statistical functions, build dataFrame, and perform statistical analyses. The conditions/groups are push/pull+ healthy/lf-patients/hf-patients/sham-patients + before/after-TMS The hypotheses tested are:
+# Introduction
+This notebook aims to provide statistical functions, build dataFrame, and perform statistical analyses. The conditions/groups are push/pull+ healthy/lf-patients/hf-patients/sham-patients + before/after-TMS The hypotheses tested are:
 - difference between healthy subjects and patients (includng lf/hf/sham-TMS) in push/pull epochs()
 - the regression between CMMN properties (including components-SPMIs and graph properties) and FMA
 - clustering analyses on CMMN properties (UE-brunnstrom clusters)
