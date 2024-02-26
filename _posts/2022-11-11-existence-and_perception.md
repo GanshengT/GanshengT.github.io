@@ -31,5 +31,6 @@ Human has been pound to claim that we have free will. As people discovered most 
 
 In neuroscience, people trying to find out possible variables that explains our behavior. These variables could be neuronal activities from sensing technology. The free will is what left to discover, in an engineering word, unexplained variance. Human free will be reduced as we try to discover factors contributing to the behavior. Intuitively, people who are pro for ' free will' will argue "we can not achieve 100% prediction accuracy". This will be classified into a statistic problem. The most important question to ask is: does free will exist? If exist, how will it affect our path to find variables explaining human behavior. Once again, I tend to believe two existence no matter in what dimension, are able to communicate. A famous example would be the Butterfly effect. Let's extend this theory: would the history/memory change after each action we will perform in the future? In a standpoint of human computation, it's easy to set a rule that govern the communication between existence than to manipulate every existence to construct the emergent property.
 
-
+# Why do we dislike behaviorism?
+In science, we focus on the latent construct, i.e., the abstract definition.  Behavorism definition.  One reason - satisfy curiosity? does it matter. human progress only need shared information
 
