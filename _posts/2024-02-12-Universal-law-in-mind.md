@@ -41,4 +41,7 @@ through visual activation is far from fully explored.  Let's talk some neuroscie
 seen objects, we should have the tools to modulate visual pathway to facilitate knowledge communication. Remember we as biological creature, have the 
 possibility to develop more senses. If the surviving pressure for finding an universal law, we might get to understand the universal law faster.
 
+# Additional note on the practical word where we live
+Assuming transcending humanity gets us closer to the universal law, we should be alert that people in the academia tend to leverage neuroscience knowledge to maximize benefits. An examples would be people are decicated to making eye-catching figures to improve the impact of their work or improve the possibility to get published. This is concerning because the action as a result of the temptation of success in academia system and society feeds stunning visulization to general knowledge and push the nature away from people's attention. I hope there is a publication that banned visualization and represent knowledge in formats such as mathematical universe.
+
 Critiques should be sent to g.tan@wustl.edu 
