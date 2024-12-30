@@ -8,32 +8,32 @@ tags:
   - Mind
   - Neuroscience
 ---
-# Why do human need to find the universal law (time-space for example)?
-We are living in a complex world.  Finding universal law often requires take countless factors into account, 
+# Why do humans need to find the universal law (time-space for example)?
+We are living in a complex world.  Finding universal law often requires taking countless factors into account, 
 which inevitably exceed human's capacity to represent constructs in mind.  For example, human's spatial ability 
 are three-dimensional.  The Coordonnées cartésiennes is how we use to communicate the spatial property of an entity.  
-if an universal law existed, I am interested in if the the universal law requires that human transcends mind's ability to represent existence. 
+if a universal law existed, I am interested in if the the universal law requires that human transcends mind's ability to represent existence. 
 
-# How to defind the universal law
+# How to define the universal law
 A law that has 100% eternal validity. A law that can be applied onto every entity of the universe given certain conditions. 
-The need for an universal law is not as appealing than its existence because its application also requires the measure of countless variable.
-However, the pursue of finding the universal law meets human's nature of curiosity.  Importantly, in the progress of finding the universal law,
-I expect evolution of human mind. The evolution of human mind is one of the many important reasons why human choose to live.
+The need for a universal law is not as appealing as its existence because its application also requires the measure of countless variables.
+However, the pursuit of finding the universal law meets the human nature of curiosity.  Importantly, in the process of finding the universal law,
+I expect the evolution of the human mind. The evolution of the human mind is one of the many important reasons why humans choose to live.
 
 # The universal law can not be part of human knowledge
 This statement is provocative and sad. But this statement made a few assumptions. First, the universal law exists. Besides, the universal law
-requires trenscending. Assuming the proportion of construct that can be represented by human mind is limited, 
+requires transcending. Assuming the proportion of construct that can be represented by human mind is limited, 
 the communication of transcending law would fail if the current science require experimental prove because the number of controlled factors is limited.
 Note that the number of construct can be infinite. Read the following session to understand why communication of law that is not related to what we have seem
 would be problematic.
 
 # Visual input and law discovery
-Now we can appreciate the reductionism in probability framework.  In a deterministic word where we have limited measure, probability is our 
+Now we can appreciate the reductionism in the probability framework.  In a deterministic word where we have limited measure, probability is our 
 best tool for building human knowledge. The reason is that it reduces the complexity and relies on countable samples. In addition, most of human
 knowledge if not all is communicating through visual input.  An accepted construct usually accompanies the visualization or imagination of it.  Most of the time,
 we interpret the law with mental manipulation of virtual imaginary objects. That being said, construct that is not related to seened objects or propositional term is hard to be communicated.
 For example, space-time without lines and grid. Propositional item such as language is generative, which shows its capacity to represent every potential law.
-However, the evolution of language of its generation suject to same communication cap.  How can a language be understood if it represents an existence that can not be sensed.
+However, the evolution of the language of its generation subject to same communication cap.  How can a language be understood if it represents an existence that can not be sensed.
 
 # Hope
 We should not abandon the hope to explore law near to the universal law, which can be a reason to live.  Besides probability, the representation
