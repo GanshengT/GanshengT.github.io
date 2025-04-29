@@ -22,7 +22,7 @@ repository               : "GanshengTGanshengT.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "T_avater.jpeg"
+  avatar           : "T_avater.jpg"
   name             : "Gansheng Tan M.Eng"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Biomedical Engineering"
