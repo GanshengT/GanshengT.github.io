@@ -12,9 +12,21 @@ Gansheng Tan is a PhD candidate in Biomedical Engineering at [Washington Univers
 
 
 
-Academic Research
+Research Interest
 =================
 Gansheng TAN's research is driven by a profound interest in dissecting the complex neural circuits that underpin human cognition, with a focus on electrophysiological mechanisms. Synthesizing principles from neuroscience, engineering, and computational modeling, he seeks to develop closed-loop neuromodulation technologies that improve the quality of life for people living with neurological conditions. To achieve this, Gansheng's work spans the basic neuroscience of human cognition, as well as the development and clinical validation of neurotechnology (both hardware and software).  He received his B.S. from [ShangHai Jiao Tong University](http://en.sjtu.edu.cn/) and graduate-level engineering degree at [Centrale Paris](https://www.centralesupelec.fr/). During first two years in mechanical department of ShangHai Jiao Tong University, Gansheng has evaluated water film flow on large vertical and inclined flat plate of the passive containment cooling system (PCCS). In the field of machine learning and information, he has contributed to the creation of the website [La Condamine](https://lacondamine.org/), the CANs(Creative Adversarial Networks) as well as several information propagation models. Gansheng worked on the analysis of EEG(Electroencephalography) signal during meditation focusing on several fields such as **personal artifacts detection** and **relaxation degree classification** since 2018. He came up with semi-automatic EEG preprocessing pipeline that is widely used by reseach teams in INSERM. Gansheng Tan earned a Master's degree in mechnical engineerinig  in Robotic Institute of Shanghai Jiao Tong University, and currently deal with graph-based functional analysis of multi-channels EEG-EMG signals and its application in sport performance assessment as well as stroke rehabilittion.
+
+Awards
+=================
+- 2025	Biomedical Engineering Teaching Award, Washington University in St. Louis, United States
+- 2024	Best Scientific Abstract Award, Neurocritical Care Society, United States
+- 2021	2021 China National Scholarship (top 0.5%)
+- 2020	Changjiang Siyuan Scholarship, Shanghai Jiao Tong University, China
+- 2018	Top 10 in Huawei Big Data Challenge, France
+- 2018	Innovative Project Award, CS² Congrès Scientifique du Campus de Saclay, France
+- 2016	Honor Student, Shanghai Jiao Tong University, China
+- 2015	Excellent Design, Engineering Design Showcase, Shanghai Jiao Tong University, China
+
 
 Project list
 ============
