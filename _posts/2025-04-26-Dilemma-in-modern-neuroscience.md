@@ -11,6 +11,8 @@ tags:
 
 Gansheng Tan1
 1Washington University in St. Louis, St. Louis, MO, USA (g.tan@wustl.edu)
+
+
 What is the reality? How can we understand the world? I once naively believed that scientific discovery would ultimately transcend human knowledge, assisted by instrumentation and technology that transform phenomena into human comprehensible properties. However, this idealistic belief may be just a fantasy.
 
 The book "When We Cease to Understand the World" by Benjamín Labatut introduced academic progression in physics, including Heisenberg’s uncertainty principle, which pokes my paper-like ideology with a bamboo wooden skewer. Heisenberg proposed that the act of observation or measurement inherently alters the properties of a physical system, making simultaneous, precise measurements impossible. This foundational notion resonates beyond quantum mechanics, infiltrating various fields of scientific inquiry, including neuroscience. Simply put, observation itself determines what we observe.
