@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+g# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -23,9 +23,9 @@ repository               : "GanshengTGanshengT.github.io"
 author:
   # Biographic information
   avatar           : "T_avater.jpeg"
-  name             : "Your Sidebar Name"
+  name             : "Gansheng Tan M.Eng"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "PhD Candidate in Biomedical Engineering"
   location         : "St. Louis, MO, USA"
   employer         : "Washington University in St. Louis"
   uri              : # URL
