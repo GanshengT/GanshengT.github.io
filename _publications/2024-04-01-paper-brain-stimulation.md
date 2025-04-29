@@ -2,7 +2,7 @@
 title: "Does vibrotactile stimulation of the auricular vagus nerve enhance working memory? A behavioral and physiological investigation"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2024-04-01-paper-brain-stimulation
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2024-04-01
 venue: 'Brain Stimulation'
