@@ -3,7 +3,7 @@ title: "Does vibrotactile stimulation of the auricular vagus nerve enhance worki
 collection: publications
 category: manuscripts
 permalink: /publication/2024-04-01-paper-brain-stimulation
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'Development of novel noninvasive vagus nerve stimulation for cognition improvement'
 date: 2024-04-01
 venue: 'Brain Stimulation'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
