@@ -58,6 +58,3 @@ Gansheng TAN plays guitar and drums when he started the high school, and he prat
 
 Gansheng TAN plays basketball for SJTU, and is a fan of rock climbing, hiking, and tennis.
 
-Gansheng TAN's calendar.
-
-<iframe src="https://calendar.google.com/calendar/embed?src=aegean004500%40gmail.com&ctz=Europe%2FParis" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
