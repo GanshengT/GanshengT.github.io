@@ -8,6 +8,13 @@ tags:
   - Mind
   - Neuroscience
 ---
+# Updates (July 2025)
+I reviewed what I have written in this post and found that many of the reasoning is missing. For example, I did not establish the necessity or the need to find such a universal law, neither do I convincingly reached the conclusion that finding the universal law requires transcending humanity. As of now, I think what I refer to as universal law is the law that exists (ontology) and can not be understood by humans (epistemology) in this post. Although this definition rescue the arguement that we need transcending humanity, this definition makes it less compelling. Most importantly, such a law is inherently unknowable and its pursuit is self-contradictory. 
+
+A year has passed and I have been contemplating why transcending humanity came to my mind at the first place. I started to realize that if some universal law lies beyond the expressive power of current human language, then only a form of conceptual or cognitive transcendence can reveal it. For example, despite generative, language can only handle finite strings, whereas the reality might require uncountable descriptions. In addition, natural words evolved from human experience, therefore can not describe unexperienced truth. In this case, human understanding are bounded in our experience. Following this thread, a way to gain better understanding is to develop language that is derived from experience. For example, we are leveraging the power of mathematical logic, including deduction to induction to make prediction in theoretical physics. However, it begs a question, why do we need to gain such understanding. The question 'why' can be answered at different levels, such as to guide technological development at the mechanistic or functional level, to better survive in time and space at the evolutionary level, to know to unknown at the metaphysical or philosophical level.
+
+To better contextualize the reasoning in this post, allow me clarify the goal. Once we transcend our current conceptual or cognitive ability, the new understanding coming along with become part of the human knowledge. Therefore, the pursue is 'transcendence' is endless, and I should not advocate transcendence for the sake of transcendence. 
+
 # Why do humans need to find the universal law (time-space for example)?
 We are living in a complex world.  Finding universal law often requires taking countless factors into account, 
 which inevitably exceed human's capacity to represent constructs in mind.  For example, human's spatial ability 
