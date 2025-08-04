@@ -15,16 +15,13 @@ Gansheng Tan1
 ## [ongoing, not finished] ##
 
 ## Being honest ##
-The process of writing is my favorite activity, although the language generated did help me generate new idea, realize the limitation in my philosopy, and 
-bring he happiness when the results help others reflect. Over the years, I’ve experimented with fiction, academic articles, diaries, and poems.
-In this post, I share my reflection on What the purpose of writing is.
+The process of writing is not my favorite activity. Yet, the process has helped me uncover new ideas, confront the limitations in my philosophy, and sometimes brought joy, especially when something I’ve written resonates with others or prompts them to reflect.  Over the years, I’ve explored many forms of writing: fiction, academic articles, diaries, and poems. In this post, I share my personal reflection on a question: What is the purpose of writing?
 
-## Writing when we were kids ##
-At the very young age, writing was taught in school. In adolescence, it can be a tool for coping with confusion and dissonance. 
-Especially at young adult age, a period when we are little exposed to 
-the world and society. we encounter event that is counter our instinct, for example, being asked to have etiquette at the table. This is a period of rebellion, 
-confusion, and reflection. Writing seems to be a way to let go some of the grudge, anger, and confusion we have. At this point, we are not really asking for
-appreciation and understanding. We often keep this secret and carefullt locked it to guard the tender parts of our identity.. 
+## Writing in childhood and adolescence ##
+As children, writing is something we’re taught in school. In adolescence, it becomes a tool for coping with confusion and emotional dissonance. 
+Early adulthood is a period when we are little exposed to the world and societal norms. 
+We encounter requirement and expectation that clash with our biological impulses, for example, being told to show etiquette at the dinner table.
+During this period of rebellion and reflection, writing  seems to be a way to let go some of the grudge, anger, and confusion we have. We rarely write for approval or understanding. Instead, we tuck these words away, locking them up carefully to protect the more vulnerable parts of our identity.
 
 ## Academic writing ##
 At we grow older, writing takes on new roles. For artists, it may be a medium for emotional expression. For professionals, it becomes a means of reflection, 
