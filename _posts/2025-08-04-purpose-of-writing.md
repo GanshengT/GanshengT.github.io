@@ -15,49 +15,38 @@ Gansheng Tan1
 ## [ongoing, not finished] ##
 
 ## Being honest ##
-The process of writing is not my favorite activity. Yet, the process has helped me uncover new ideas, confront the limitations in my philosophy, and sometimes brought joy, especially when something I’ve written resonates with others or prompts them to reflect.  Over the years, I’ve explored many forms of writing: fiction, academic articles, diaries, and poems. In this post, I share my personal reflection on a question: What is the purpose of writing?
+Writing is not my favorite activity. Yet, writing down my ideas has helped me uncover new ones. In case what I’ve written resonates with others or prompts them to reflectcon often results in more generalized philosophy.  Over the years, I’ve explored many forms of writing: fiction, academic articles, diaries, and poems. In this post, I share my personal reflection on a question: What is the purpose of writing?
 
 ## Writing in childhood and adolescence ##
-As children, writing is something we’re taught in school. In adolescence, it becomes a tool for coping with confusion and emotional dissonance. 
+In childhood, writing is something we’re taught in school. In adolescence, it becomes a tool for coping with confusion and emotional dissonance. 
 Early adulthood is a period when we are little exposed to the world and societal norms. 
 We encounter requirement and expectation that clash with our biological impulses, for example, being told to show etiquette at the dinner table.
-During this period of rebellion and reflection, writing  seems to be a way to let go some of the grudge, anger, and confusion we have. We rarely write for approval or understanding. Instead, we tuck these words away, locking them up carefully to protect the more vulnerable parts of our identity.
+During this period of rebellion and reflection, writing seems to be a way to let go some of the grudge, anger, and confusion we have. In this time, we rarely write for approval or understanding. Instead, we tuck these words away, locking them up carefully to protect the more vulnerable parts of our identity.
 
 ## Academic writing ##
-At we grow older, writing takes on new roles. For artists, it may be a medium for emotional expression. For professionals, it becomes a means of reflection, 
-persuasion, or contribution. In academia, my own context, writing is more like a screening tool, than a paid work. Academic writing is rarely compensated directly;
-In my experience, the purpose of writing have two folds.
-In socioecologiucal context, all we can expect is that the writing bring back recognition, or adds to a record of contribution, 
-one that may lead to recognition, opportunities, or future funding. Otherwise, there is autrustic human nature to benefit other with knowldge that continously motivate
-us to share our research despite the process of writing often takes more time and effort than the researcher per se.
-Outside academia, writing also serves broader social and epistemological functions.
-It can be a tool to share insight, persuade others, or contribute to a collective knowledge system.
-In this post, I reflect on why we write, in the setting of academia.
+As we grow older, writing takes on new roles. For artists, it may be a medium for emotional expression. For writers, it becomes a means of reflection, 
+persuasion, or contribution. In academia, where I am in right now, writing is more like a screening tool, than a paid job. In fact, academic writing is rarely compensated directly. There are two main motivation for researchers to write.
+In socioecologiucal context, all we can expect is that the writing bring back recognition, or adds to a record of contribution, which
+ may lead to job opportunities, or future funding. In addition, there is autrustic human nature to benefit the race as a whole. This impulse continously motivates
+us to share our research despite the process of writing often takes more time and effort than the research per se.
+
+Outside academia, writing also serves broader social and epistemological functions. It can be a tool to share insight, persuade others, or contribute to a collective knowledge system. The above relates to mechanism of writing, that is, the motivation to write. Following up on this, a second question would be how should we writing. To answer this, I reflect on the function of writing, in the setting of academia.
 
 ## Writing for reading ##
-A question arise Can writing exist without reading? If a piece of writing is never read, not even by its author, what is reason for such writing exist?
+Can writing exist without reading? If a piece of writing is never read, not even by its author, what is reason for the existence of such writing ?
 There are several reasons, for example, emotional coping mechanism, an outlet of emotion, a need for express, or reflection, a tool for integrate thoughts. 
-Writing is motor-cognitive embedment, like hand gesturing during speaking, I believe it facilitate cognitive reasoning, in the framework of cognitive embodiment
+Writing is motor-cognitive embedment, like hand gesturing during speaking. In the framework of cognitive embodiment, writing might facilitate cognitive reasoning,
 
-Audience and readership, and sharing is a major part of academic writing. Generally, the end point of a journal article is to be read. This is dinstinct from 
-writing as a form of art. In the setting of writing as a form of art, writer focus more on what they want to express, either anger, etc. To understand is less a burden
-for the writer. And the art often evoked different echoes in reader with different experience. It resonates when a reader has shared a similar experience 
-or can empathize through metaphor and imagery. 
-In contrast, academic writing is designed to inform, instruct, or persuade. It prioritizes clarity, logical flow, and cognitive accessibility, which now becomes
-the writer's responsbility.
+Bring judged and viewed is inevitable for academic writing to serve its purpose. For example, the end point of a journal article is to be read. Audience and readership are integrated parts of academic writing. This is dinstinct from writing as a form of art. In the setting where writing is taken as a form of art, writer focus more on what they want to express, for example, criticism, anger, etc. To make the writing understood is less a burden for the writer. And the art often evoked different echoes in reader with different experience. It resonates when a reader has shared a similar experience or can empathize through metaphor and imagery. In contrast, academic writing is designed to inform, instruct, or persuade. As an endeavor in science, academic writing aims to communicate the findings such that people from different walks of life can capture what precise knowledge that the authors want to convey. As a form of communicating knowledge, it prioritizes clarity, logical flow. As a result, the writers now take the task of making reader understand.
 
 ## Reader-Engineered Writing
-However, as a form of communicating knowledge, the burden of make reader understand now becomes a job for the writer.
-Here is the debates, we can present results and knowedge in a way that only few people or only the writer can understand. That's a personaly choice. 
-However in today's life pace,  A paper that is difficult to follow, either because of jargon, poor organization, or lack of contextualization, and discourage
-reader from continuing reading and understanding it. This limits its reach and impact
-First, such reading can not improve general knowledge, which violate the autristic purpose of academic reading. The other purpose, 
-would be get recognition or as a certificate of contribution. A paper that is hard to read for the reader often fail this objective as well, 
-because peer-review is a unpaid labor. most likely, Your peer will not spend time to understand your work and background before reading your paper, 
-not to mention peer-review, althoug hstandard, do not pay your peer.
-Thus in order to achieve the objective with writing which is time and effort consuming, the a foundational epistemological principle of academic writing is that
-it should be readable. This shift introduces a responsibility: to make our message accessible, relevant, and engaging. With this understanding, given our limited time, how can we 
-write in an efficient way that convey our knowledge that benefit as many readers as possible?  That is why I would like to share a framework for reader-engineereed writing
+Here comes the debates. We can present results and knowedge in a way that only few people or only the writer can understand. That's a personaly choice. 
+However in today's life pace, a paper that is difficult to follow, either because of jargon, poor organization, or lack of contextualization, discourages
+reader from continuing reading and understanding it. This limits its reach and impact. More precisely, such writing can not make little contribution to general knowledge, which violate the autristic purpose of academic reading. A paper that is hard to read for the reader often fail the second objective as well,
+to get recognition. Peer-review is a unpaid labor. most likely, Your peers will not spend time to understand your work and background before reading your paper, 
+not to mention peer-review do not pay your peer.
+
+Thus, a foundational epistemological principle of academic writing is that it should be readable. This shift introduces a responsibility: to make our message accessible, relevant, and engaging. Finding a right way to communicate knowledge clearly is of course time and effort consuming.  Given our limited time, how can we write in an efficient way that convey our knowledge that benefit as many readers as possible?  That is why I would like to share a framework for reader-engineereed writing
 
 
 # framework for writing in academic setting
