@@ -66,7 +66,7 @@ interpret patterns, and reflect on limitations and implications. Lastly, methods
 2.	If I were new to this study, what background would I need to replicate the work? Depending on the scale, detailed tables 
 I present the steps I think is efficient and epistmoligically sounds and I will present debates thereafter
 
-# Debate 1: Interim Analysis lead to Insight or Bias
+## Debate 1: Interim Analysis lead to Insight or Bias
 One ongoing debate in research design concerns interim analysis. Should we analyze data during the study to optimize resource use and gain early insight? Or should we avoid this to prevent bias and false discoveries?
 
 In conventional paradigms, interim analysis is discouraged because it may lead to “double dipping”—inflating the chance of false positives. However, in domains where data are rare and precious—such 
@@ -78,7 +78,7 @@ Thus, interim analysis may be reframed—not as hypothesis testing, but as hypot
 This reframing allows us to gain real-time insight while preserving transparency,
 provided it is carefully documented and clearly distinguished from confirmatory analysis.
 
-# Debate 2: Introduction First, or Last?
+## Debate 2: Introduction First, or Last?
 Another philosophical fork arises: Should we write the introduction before or after analyzing results?
 Many researchers begin with results and then find an narrative that better articulate the result for introduction. But I recommend the opposite.
 
