@@ -42,41 +42,27 @@ Bring judged and viewed is inevitable for academic writing to serve its purpose.
 ## Reader-Engineered Writing
 Here comes the debates. We can present results and knowedge in a way that only few people or only the writer can understand. That's a personaly choice. 
 However in today's life pace, a paper that is difficult to follow, either because of jargon, poor organization, or lack of contextualization, discourages
-reader from continuing reading and understanding it. This limits its reach and impact. More precisely, such writing can not make little contribution to general knowledge, which violate the autristic purpose of academic reading. A paper that is hard to read for the reader often fail the second objective as well,
-to get recognition. Peer-review is a unpaid labor. most likely, Your peers will not spend time to understand your work and background before reading your paper, 
-not to mention peer-review do not pay your peer.
+reader from continuing reading and understanding it. This limits its reach and impact. More precisely, such writing can not make little contribution to general knowledge, which violate the autristic purpose of academic reading. A paper that is hard to read for the reader often fail the second objective as well, to get recognition. Peer-review is a unpaid labor. most likely, Your peers will not spend time to understand your work and background before reading your paper,  not to mention peer-review do not pay your peer.
 
 Thus, a foundational epistemological principle of academic writing is that it should be readable. This shift introduces a responsibility: to make our message accessible, relevant, and engaging. Finding a right way to communicate knowledge clearly is of course time and effort consuming.  Given our limited time, how can we write in an efficient way that convey our knowledge that benefit as many readers as possible?  That is why I would like to share a framework for reader-engineereed writing
 
-
 # framework for writing in academic setting
-This framework aims to mirror a natural reasoning process for human cognition for information processing, why, how, what, and so what. For example, useful structure, especially for the results section, follows the sequence:
-Motivation → Methods → Results → Interpretation. First, we ask why the work was done (goal and motivation). 
-Then, how it was done (methods), followed by what was found (results), and finally, what it means (interpretation).
-So far, the argument presented to conclude that considering readership is an important epistemology for academic writing to serve its purpose. The reader
-can be our future self or an external audience. In this view, writing is incomplete without reading.
+So far, the arguments presented support that considering readership is an important epistemology for academic writing to serve its purpose.  A framework built upon natural reasoning process of human cognition can guide academic. Humans want to know why, how, what, and so what. Therefore, a useful structure  for the results section—follows the sequence: Motivation → Methods → Results → Interpretation. We begin by asking why the work was done (goal and motivation), then describe how it was done (methods), followed by what was found (results), and finally what it means (interpretation). 
 
-Broadly, this framework represent broader research - writing cycle. Writing is ais not merely a report—it is the final phase of research. I will present how study is designed and how it later translate into knowlegde by writing, in my experience
-The cycle starts by writing proposal where goals, background, and methods are pre-defined. This pre-definition serves an epistemic function—it guards against hindsight bias and unjustified post hoc claims.
-Then experimenter conducted study, based on the protocol,
-analyzed primary outocme with the predefined method, conduct sensitivity study to generate new hypothsis, writing to convery the conclusion
-Once results are collected, I advocate for drafting the abstract and introduction before diving into detailed analysis. Then I organize the results, and then use figures
-support and clarify the written narrative. Discussion evolves in parallel with the results. As we analyze data, we begin to understand what we’ve learned. The discussion section becomes a place to consolidate insight, 
-interpret patterns, and reflect on limitations and implications. Lastly, methods. I approach it with two guiding questions: 	1.	What motivated each analysis?
-2.	If I were new to this study, what background would I need to replicate the work? Depending on the scale, detailed tables 
-I present the steps I think is efficient and epistmoligically sounds and I will present debates thereafter
+
+Academic writing is not merely a summary of finding. It is an integral part of active research. From my own experience, I will outline how to  write to effective communicate knowledge and contribute to research. Research usually starts by writing proposal where goals, background, and methods are pre-defined. This pre-definition serves an epistemic function. It guards against bias and unjustified post hoc claims. Next, the study is conducted according to the protocol, the primary outcome is analyzed using pre-specified methods, sensitivity analyses generate new hypotheses, and writing conveys the gained knowledge. 
+
+Once results from planned analysis and necessary controls are available, we should have a sense of the big picture. I advocate drafting the abstract and introduction at this time, before in-depth analysis and sensitivity analyses. This anchors the work in its intellectual context. Results are then organized, with figures used to support and clarify the written narrative. The discussion evolves in parallel with the results: as data are analyzed, insights emerge, patterns are interpreted, and limitations and implications are addressed. Finally, I will describe the methods with two guiding questions:
+1.	What motivated each analysis?
+2.	If I were new to this study, what background would I need to replicate the work? Depending on scope, this may be supplemented with detailed tables and appendices. I believe this approach is both efficient and epistemologically sound. Below, I consider three debates that arise within this framework.
+
 
 ## Debate 1: Interim Analysis lead to Insight or Bias
-One ongoing debate in research design concerns interim analysis. Should we analyze data during the study to optimize resource use and gain early insight? Or should we avoid this to prevent bias and false discoveries?
+One ongoing debate in research design concerns interim analysis. Should we analyze data during the study to optimize resource use and gain early insight, Or should we avoid this to prevent bias and false discoveries?
 
-In conventional paradigms, interim analysis is discouraged because it may lead to “double dipping”—inflating the chance of false positives. However, in domains where data are rare and precious—such 
-as intracranial recordings in human patients—there is a growing view that interim insights may be ethically and practically justified. 
-Patients volunteer time and risk. Funding is limited. The worst outcome is to complete a decade-long study on ten patients 
-only to find the paradigm was flawed from the beginning.
+In conventional paradigms, interim analysis is discouraged because it may lead to “double dipping”, inflating the chance of false positives. However, in domains where data are rare and the cost for experiment is tremendous, such as intracranial recordings in human patients, there is a growing recognition that interim insights may be ethically and practically justified. In this setting, patients volunteer time and accept risk. With limited funding and high logistic cost is limited, it would be a lose if a decade-long study on ten patients yield no conclusion because the paradigm was flawed from the beginning.
 
-Thus, interim analysis may be reframed—not as hypothesis testing, but as hypothesis generation. 
-This reframing allows us to gain real-time insight while preserving transparency,
-provided it is carefully documented and clearly distinguished from confirmatory analysis.
+Personally, I would highlight the importance of sanity checks at the begining of the study, which hopefully identified potential design flaw. I can see the values of interim analysis in hypothesis generation, but not in hypothesis testing. I would decide abort the study based on the interim analysis, for example, safety concern in a clinical trial. I would design subsequent study based on the interim analysis while following the predefined protocol if no flaw is identified. In addition, carefully documenting the interim results, any changes in hypotheisis, methods allow us gain real-time insight while preserving transparency.
 
 ## Debate 2: Introduction First, or Last?
 Another philosophical fork arises: Should we write the introduction before or after analyzing results?
