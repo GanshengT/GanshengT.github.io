@@ -65,28 +65,18 @@ In conventional paradigms, interim analysis is discouraged because it may lead t
 Personally, I would highlight the importance of sanity checks at the begining of the study, which hopefully identified potential design flaw. I can see the values of interim analysis in hypothesis generation, but not in hypothesis testing. I would decide abort the study based on the interim analysis, for example, safety concern in a clinical trial. I would design subsequent study based on the interim analysis while following the predefined protocol if no flaw is identified. In addition, carefully documenting the interim results, any changes in hypotheisis, methods allow us gain real-time insight while preserving transparency.
 
 ## Debate 2: Introduction First, or Last?
-Another philosophical fork arises: Should we write the introduction before or after analyzing results?
-Many researchers begin with results and then find an narrative that better articulate the result for introduction. But I recommend the opposite.
+One recurring dilemma is whether we should write the introduction before or after analyzing results.
+Many researchers prefer to start with results and then shape a introduction that frame them more clearly. This approach is practical because most journals favor papers that read compelling, that is, give the impression that the work is advancing the field. Notably, most readers  may not be deeply familiar with the field. By shaping the introduction around the results, the paper could stands stronger chance of passing the review process. However, this way may obscure the broader context, risking a missed opportunity to foreground the most important knowledge gap. I recommend the opposite. In my opinion, transparently presenting the big picture in the introduction and refine results to address important knowledge gaps as best as possible does not make a paper less compelling. Research is always constrained by practical and physical realities, so no study can fully resolve every open question. Yet by clearly situating the work within the larger scientific landscape, a paper helps the audience grasp understand the current progress in science, and connects the findings back to the central issues in a frank and authentic way. Such honesty not only respects the reader but also builds trust and emotional resonance with the authors’ motivations, making the contribution feel more meaningful, even if it is necessarily partial.
 
-Writing the abstract and introduction first forces us to:
-	•	re-Review the literature
-	•	Identify advance during the years when study is conducted, indentify gaps this research can solve
-	• Reorganize results in a way that follows the advance of knowledge in this field
-	•	and most importantly, update analyses with most reasonable methodologies and conduct control experiement and statistical control needed to draw conclusions 
- given identified confounds 
+Writing the abstract and introduction first forces us to re-Review the literature (parallel work emerges during the execution of the project), identify advance during the years when study is conducted, indentify gaps this research can solve, and reorganize results in a way that follows the advance of knowledge in this field,and most importantly, update analyses with most reasonable methodologies and conduct control experiement and statistical control needed to draw conclusions, given newly identified confounds 
 
-This front-loading of thought not only anchors the analysis but also ensures that conclusions are grounded in existing knowledge, 
-not convenience. First, this approach fit the philosophy of science advances, by solving unknowns—not by narrating what we’ve happened to find. Second, although
-it will take times to implement the most appropriate methods and sometimes we can encouter the scenario where the hypothesis defined in the proposal 
-has been somewhat verified, doing so might be less efficient than finding suitable narrative. But in my experience, this often yield higher-impact and a smoother 
-peer review experience.
+This approach and mindset not only anchors the analysis but also ensures that conclusions are grounded in existing knowledge. In fact, this approach fit my philosophy of science: to solve unknowns, not by narrating what we’ve happened to find. However I have to admit, a better narration is important to communicate the knowledge to the reader. And the good new is that they do not conflict with each other. A well-articulated story helps readers engage with the work, but it should not come at the cost of obscuring the larger context or the unresolved gaps in the field. Second, although it take times to implement the most appropriate methods and sometimes we can encouter the scenario where the hypothesis defined in the proposal has been somewhat verified, writing the introduction and refining results thereafter might be less efficient than finding a suitable narrative. But in my experience, this often yield higher-impact papers and a smoother peer review experience.
 
 # Debate 3: Figures First, or Text First?
 Some writers begin with figures, arguing that visuals provide the first impression and that readers often skim images before reading. 
 For visually inclined thinkers, this makes sense. Figures can anchor a story and shape its trajectory.
  personally recommend writing text first. As an analytically oriented person, my reading starts by understanding the quantified results and logic in the text.
- I will turn to figures if I had doubt or had difficulties in understanding. By translating data into visual form, we  ensures that figures serve the narrative
- rather than dictate it. Disclosure, either way is epistemically sound, I personally prefer text first.
+I will turn to figures if I had doubt or had difficulties in understanding. By translating data into visual form, we  ensures that figures serve the narrative  rather than dictate it. Disclosure, either way is epistemically sound, I personally prefer text first.
 
 
 # Conclusion
