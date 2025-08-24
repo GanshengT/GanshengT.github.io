@@ -12,7 +12,6 @@ tags:
 Gansheng Tan1
 1Washington University in St. Louis, St. Louis, MO, USA (g.tan@wustl.edu)
 
-## [ongoing, not finished] ##
 
 ## Being honest ##
 Writing is not my favorite activity. Yet, writing down my ideas has helped me uncover new ones. In case what I’ve written resonates with others or prompts them to reflectcon often results in more generalized philosophy.  Over the years, I’ve explored many forms of writing: fiction, academic articles, diaries, and poems. In this post, I share my personal reflection on a question: What is the purpose of writing?
@@ -46,7 +45,7 @@ reader from continuing reading and understanding it. This limits its reach and i
 
 Thus, a foundational epistemological principle of academic writing is that it should be readable. This shift introduces a responsibility: to make our message accessible, relevant, and engaging. Finding a right way to communicate knowledge clearly is of course time and effort consuming.  Given our limited time, how can we write in an efficient way that convey our knowledge that benefit as many readers as possible?  That is why I would like to share a framework for reader-engineereed writing
 
-# framework for writing in academic setting
+## framework for writing in academic setting
 So far, the arguments presented support that considering readership is an important epistemology for academic writing to serve its purpose.  A framework built upon natural reasoning process of human cognition can guide academic. Humans want to know why, how, what, and so what. Therefore, a useful structure  for the results section—follows the sequence: Motivation → Methods → Results → Interpretation. We begin by asking why the work was done (goal and motivation), then describe how it was done (methods), followed by what was found (results), and finally what it means (interpretation). 
 
 
@@ -72,13 +71,13 @@ Writing the abstract and introduction first forces us to re-Review the literatur
 
 This approach and mindset not only anchors the analysis but also ensures that conclusions are grounded in existing knowledge. In fact, this approach fit my philosophy of science: to solve unknowns, not by narrating what we’ve happened to find. However I have to admit, a better narration is important to communicate the knowledge to the reader. And the good new is that they do not conflict with each other. A well-articulated story helps readers engage with the work, but it should not come at the cost of obscuring the larger context or the unresolved gaps in the field. Second, although it take times to implement the most appropriate methods and sometimes we can encouter the scenario where the hypothesis defined in the proposal has been somewhat verified, writing the introduction and refining results thereafter might be less efficient than finding a suitable narrative. But in my experience, this often yield higher-impact papers and a smoother peer review experience.
 
-# Debate 3: Figures First, or Text First?
+## Debate 3: Figures First, or Text First?
 Having figures ready early is a common and useful practice when writing journal articles. For many readers, visual content captures attention more readily than text, and figures often provide a coherent storyline on their own. Visually inclined thinkers, in particular, may grasp the main idea more quickly through figures. 
 I do not oppose having the figures themselves represent the full story—ideally, they should stand alone and cohesively convey the main message. That said, I personally prefer to begin with text. As an analytically oriented reader, my understanding from a paper starts with the quantified results and the logic laid out in the text. Figures then serve as a complement representation I turn to when I want to clarify or look for evidence.
 
 Writing the results in text first also helps me determine which aspects of the data are most important to illustrate and what kind of visual representation will best illustrate the knowledge. In this way, figures support the claims and help comprehension through spatial representation. Both approaches are epistemically sound, but my own practice is to write text first.
 
-# Conclusion
+## Conclusion
 Writing is time-consuming and rarely rewarded immediately in academia. Yet it is an important component in research, for its ise for reflection, connection, and contribution. 
 
 This essay reflects on the purpose of writing, and share a structured and transparent workflow that prompt our writing to fullfil its purpose efficiently: make readers understand.
