@@ -73,15 +73,12 @@ Writing the abstract and introduction first forces us to re-Review the literatur
 This approach and mindset not only anchors the analysis but also ensures that conclusions are grounded in existing knowledge. In fact, this approach fit my philosophy of science: to solve unknowns, not by narrating what we’ve happened to find. However I have to admit, a better narration is important to communicate the knowledge to the reader. And the good new is that they do not conflict with each other. A well-articulated story helps readers engage with the work, but it should not come at the cost of obscuring the larger context or the unresolved gaps in the field. Second, although it take times to implement the most appropriate methods and sometimes we can encouter the scenario where the hypothesis defined in the proposal has been somewhat verified, writing the introduction and refining results thereafter might be less efficient than finding a suitable narrative. But in my experience, this often yield higher-impact papers and a smoother peer review experience.
 
 # Debate 3: Figures First, or Text First?
-Some writers begin with figures, arguing that visuals provide the first impression and that readers often skim images before reading. 
-For visually inclined thinkers, this makes sense. Figures can anchor a story and shape its trajectory.
- personally recommend writing text first. As an analytically oriented person, my reading starts by understanding the quantified results and logic in the text.
-I will turn to figures if I had doubt or had difficulties in understanding. By translating data into visual form, we  ensures that figures serve the narrative  rather than dictate it. Disclosure, either way is epistemically sound, I personally prefer text first.
+Having figures ready early is a common and useful practice when writing journal articles. For many readers, visual content captures attention more readily than text, and figures often provide a coherent storyline on their own. Visually inclined thinkers, in particular, may grasp the main idea more quickly through figures. 
+I do not oppose having the figures themselves represent the full story—ideally, they should stand alone and cohesively convey the main message. That said, I personally prefer to begin with text. As an analytically oriented reader, my understanding from a paper starts with the quantified results and the logic laid out in the text. Figures then serve as a complement representation I turn to when I want to clarify or look for evidence.
 
+Writing the results in text first also helps me determine which aspects of the data are most important to illustrate and what kind of visual representation will best illustrate the knowledge. In this way, figures support the claims and help comprehension through spatial representation. Both approaches are epistemically sound, but my own practice is to write text first.
 
 # Conclusion
-Writing is time-consuming and rarely rewarded immediately in socioeconomic terms. 
-Yet it is an important component in research, for its ise for reflection, connection, and contribution. 
+Writing is time-consuming and rarely rewarded immediately in academia. Yet it is an important component in research, for its ise for reflection, connection, and contribution. 
 
-By reflecting on purpose, considering audience, and adopting a structured and transparent workflow, 
-we can ensure our writing fulfills its purpose efficiently and avoid situation that the outcome of our invested time and effort did not serve its purposes
+This essay reflects on the purpose of writing, and share a structured and transparent workflow that prompt our writing to fullfil its purpose efficiently: make readers understand.
