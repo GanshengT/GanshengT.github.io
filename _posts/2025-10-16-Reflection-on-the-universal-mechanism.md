@@ -5,7 +5,7 @@ permalink: /posts/2025/10/Reflection-on-the-universal-mechanism/
 
 tags:
   - Neuroscience
-  - Eastern philosophy
+  - Cultivation novel
   - Meta-physics
 ---
 
