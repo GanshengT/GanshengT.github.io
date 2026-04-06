@@ -274,11 +274,11 @@ redirect_from:
     function ecgSample(phase) {
       let value = 0;
 
-      value += bump(phase, 0.18, 0.028, 3.6);   // P wave
-      value += bump(phase, 0.39, 0.010, -4.5);  // Q wave
-      value += bump(phase, 0.42, 0.006, 22.5);  // R wave
-      value += bump(phase, 0.45, 0.012, -8.8);  // S wave
-      value += bump(phase, 0.70, 0.060, 6.8);   // T wave
+      value += bump(phase, 0.18, 0.028, 3.6);
+      value += bump(phase, 0.39, 0.010, -4.5);
+      value += bump(phase, 0.42, 0.006, 22.5);
+      value += bump(phase, 0.45, 0.012, -8.8);
+      value += bump(phase, 0.70, 0.060, 6.8);
 
       return value;
     }
