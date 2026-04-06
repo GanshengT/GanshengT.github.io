@@ -1,0 +1,443 @@
+---
+layout: archive
+title: "Research"
+permalink: /research/
+redirect_from:
+  - /publications/
+author_profile: true
+---
+
+{% include base_path %}
+
+<style>
+  .research-hub {
+    margin-bottom: 2rem;
+  }
+
+  .research-hub__hero {
+    padding: clamp(2rem, 4vw, 3.25rem);
+    border-radius: 28px;
+    background:
+      radial-gradient(circle at top right, rgba(244, 190, 95, 0.2), transparent 28%),
+      radial-gradient(circle at bottom left, rgba(79, 172, 177, 0.24), transparent 30%),
+      linear-gradient(135deg, #0b1628 0%, #18324f 52%, #264653 100%);
+    color: #f8fafc;
+    box-shadow: 0 32px 70px rgba(11, 22, 40, 0.18);
+  }
+
+  .research-hub__eyebrow {
+    margin: 0 0 0.75rem;
+    font-size: 0.78rem;
+    font-weight: 700;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: rgba(248, 250, 252, 0.72);
+  }
+
+  .research-hub__hero h1 {
+    margin: 0;
+    max-width: 14ch;
+    font-size: clamp(2.45rem, 5vw, 4.2rem);
+    line-height: 0.98;
+    color: #fff;
+  }
+
+  .research-hub__hero p {
+    max-width: 48rem;
+    margin: 1.2rem 0 0;
+    font-size: 1.04rem;
+    line-height: 1.8;
+    color: rgba(248, 250, 252, 0.9);
+  }
+
+  .research-hub__hero .btn {
+    margin: 1.2rem 0.7rem 0 0;
+  }
+
+  .research-hub__anchors,
+  .research-hub__projects {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 1rem;
+    margin-top: 1.4rem;
+  }
+
+  .research-hub__anchor,
+  .research-hub__project {
+    padding: 1.2rem;
+    border-radius: 18px;
+    border: 1px solid rgba(15, 23, 42, 0.08);
+    background: linear-gradient(180deg, #fffefb 0%, #f4f7fb 100%);
+    box-shadow: 0 18px 38px rgba(15, 23, 42, 0.07);
+  }
+
+  .research-hub__anchor h2,
+  .research-hub__project h3 {
+    margin: 0 0 0.4rem;
+    font-size: 1.05rem;
+  }
+
+  .research-hub__anchor p,
+  .research-hub__project p {
+    margin: 0;
+    font-size: 0.95rem;
+    line-height: 1.7;
+  }
+
+  .research-direction {
+    margin-top: 2rem;
+    padding: 1.5rem;
+    border-radius: 24px;
+    background: #f7f8fa;
+    border: 1px solid rgba(15, 23, 42, 0.06);
+  }
+
+  .research-direction__label {
+    display: inline-block;
+    margin-bottom: 0.75rem;
+    padding: 0.25rem 0.7rem;
+    border-radius: 999px;
+    background: #d7ece8;
+    color: #0f3b44;
+    font-size: 0.76rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+
+  .research-direction h2 {
+    margin: 0;
+  }
+
+  .research-direction > p {
+    margin-top: 0.8rem;
+    max-width: 46rem;
+    line-height: 1.8;
+  }
+
+  .research-pubs {
+    display: grid;
+    gap: 0.9rem;
+    margin-top: 1.3rem;
+  }
+
+  .research-pub-card {
+    border-radius: 18px;
+    border: 1px solid rgba(15, 23, 42, 0.08);
+    background: #fff;
+    overflow: hidden;
+  }
+
+  .research-pub-card__toggle {
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    gap: 0.9rem;
+    width: 100%;
+    padding: 1rem 1.1rem;
+    border: 0;
+    background: transparent;
+    text-align: left;
+    cursor: pointer;
+  }
+
+  .research-pub-card__year {
+    align-self: start;
+    min-width: 3.4rem;
+    padding: 0.35rem 0.5rem;
+    border-radius: 999px;
+    background: #0f3b44;
+    color: #fff;
+    font-size: 0.8rem;
+    font-weight: 700;
+    text-align: center;
+  }
+
+  .research-pub-card__meta {
+    display: grid;
+    gap: 0.2rem;
+  }
+
+  .research-pub-card__title {
+    font-weight: 700;
+    color: #102033;
+  }
+
+  .research-pub-card__venue {
+    color: #566374;
+    font-size: 0.9rem;
+  }
+
+  .research-pub-card__arrow {
+    font-size: 1.1rem;
+    color: #0f3b44;
+  }
+
+  .research-pub-card__body {
+    padding: 0 1.1rem 1.15rem 5.4rem;
+    color: #334155;
+  }
+
+  .research-pub-card__body p {
+    margin: 0.55rem 0 0;
+    line-height: 1.7;
+  }
+
+  .research-pub-card__actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.65rem;
+    margin-top: 0.9rem;
+  }
+
+  .research-direction__subheading {
+    margin: 1.5rem 0 0.75rem;
+    font-size: 1rem;
+    color: #102033;
+  }
+
+  .research-pub-card__citation {
+    font-size: 0.9rem;
+    color: #64748b;
+  }
+
+  .research-hub__archive-title {
+    margin-top: 2.4rem;
+  }
+
+  @media (max-width: 48em) {
+    .research-hub__hero h1 {
+      max-width: none;
+    }
+
+    .research-pub-card__toggle {
+      grid-template-columns: 1fr auto;
+    }
+
+    .research-pub-card__year {
+      grid-column: 1 / -1;
+      justify-self: start;
+    }
+
+    .research-pub-card__body {
+      padding-left: 1.1rem;
+    }
+  }
+</style>
+
+{% assign publications_sorted = site.publications | sort: "date" | reverse %}
+{% assign projects_sorted = site.projects | sort: "date" | reverse %}
+{% assign featured_publications = publications_sorted | where: "selected_publication", true %}
+
+<div class="research-hub" markdown="0">
+  <section class="research-hub__hero">
+    <h1>Translational cognitive neuroscience</h1>
+    <p>
+      I study how bodily rhythms structure the neural dynamics of human cognition and translate this knowledge into closed-loop neurotechnology for addressing cognitive dysfunction.
+    </p>
+    <a class="btn btn--primary btn--large" href="https://scholar.google.com/citations?user=4wBDfs4AAAAJ&hl=fr">Google Scholar</a>
+    <a class="btn btn--info btn--large" href="https://www.researchgate.net/profile/Gansheng_Tan">ResearchGate</a>
+    <a class="btn btn--inverse btn--large" href="https://www.linkedin.com/in/gansheng-tan-390435147/">LinkedIn</a>
+  </section>
+
+  <section class="research-hub__anchors">
+    <article class="research-hub__anchor">
+      <h2><a href="#brain-body-coupling">Brain-body coupling</a></h2>
+      <p>How do eye movements and other bodily rhythms optimally orchestrate neural computation in the human brain to support cognitive function?</p>
+    </article>
+    <article class="research-hub__anchor">
+      <h2><a href="#neuromodulation">Neurotechnology for cognitive health</a></h2>
+      <p>Neurotechnology to sense, decode, and intervene with the nervous system at the right time for preserving, restoring, or augmenting cognitive function.</p>
+    </article>
+    <article class="research-hub__anchor">
+      <h2><a href="#methods-and-systems">Systems and computational methods</a></h2>
+      <p> Record, analyze, and interpret multimodal neural and behavioral signals, including human electrophysiology, neuroimaging, speech acoustics, and eye tracking.</p>
+    </article>
+  </section>
+
+  <section class="research-direction" id="brain-body-coupling">
+    <span class="research-direction__label">Cognitive neuroscience</span>
+    <h2>Brain-body coupling</h2>
+    <p>
+      Eye movements, heartbeat, and other bodily rhythms structure the neural dynamics of human cognition. Earlier work on EEG dynamics during meditation and attention established a foundation for later questions about how endogenous rhythms shape cognition.
+    </p>
+    <div class="research-pubs">
+      {% for post in publications_sorted %}
+        {% if post.research_area == "brain-body-coupling" %}
+          {% assign summary = post.excerpt | default: post.content | markdownify | strip_html | strip_newlines | truncate: 280 %}
+          <article class="research-pub-card">
+            <button class="research-pub-card__toggle" type="button" aria-expanded="false">
+              <span class="research-pub-card__year">{{ post.date | date: "%Y" }}</span>
+              <span class="research-pub-card__meta">
+                <span class="research-pub-card__title">{{ post.title }}</span>
+                <span class="research-pub-card__venue">
+                  {% if post.venue and post.venue != "NON" %}{{ post.venue }}{% else %}Research report{% endif %}
+                </span>
+              </span>
+              <span class="research-pub-card__arrow">▾</span>
+            </button>
+            <div class="research-pub-card__body" hidden>
+              <p>{{ summary }}</p>
+              {% if post.citation %}
+                <p class="research-pub-card__citation">{{ post.citation }}</p>
+              {% endif %}
+              <div class="research-pub-card__actions">
+                <a class="btn btn--primary" href="{{ base_path }}{{ post.url }}">Read summary</a>
+                {% if post.paperurl and post.paperurl != "" %}
+                  <a class="btn btn--inverse" href="{{ post.paperurl }}">Open paper</a>
+                {% endif %}
+                {% if post.related_project_url and post.related_project_label %}
+                  <a class="btn btn--info" href="{{ base_path }}{{ post.related_project_url }}">{{ post.related_project_label }}</a>
+                {% endif %}
+              </div>
+            </div>
+          </article>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </section>
+
+  <section class="research-direction" id="neuromodulation">
+    <span class="research-direction__label">Translational neuroscience</span>
+    <h2>Neurotechnology for cognitive health</h2>
+    <p>
+Cognitive dysfunction in aging and acquired brain injury is an increasingly urgent challenge as the population ages. To address this challenge, I develop (1) translational neuromodulation to preserve and restore function by engaging existing neural circuitry and (2) brain-computer interface (BCI) to decode, supplement, or replace neural processing for cognition.     </p>
+    <div class="research-pubs">
+      {% for post in publications_sorted %}
+        {% if post.research_area == "neuromodulation" %}
+          {% assign summary = post.excerpt | default: post.content | markdownify | strip_html | strip_newlines | truncate: 280 %}
+          <article class="research-pub-card">
+            <button class="research-pub-card__toggle" type="button" aria-expanded="false">
+              <span class="research-pub-card__year">{{ post.date | date: "%Y" }}</span>
+              <span class="research-pub-card__meta">
+                <span class="research-pub-card__title">{{ post.title }}</span>
+                <span class="research-pub-card__venue">
+                  {% if post.venue and post.venue != "NON" %}{{ post.venue }}{% else %}Publication{% endif %}
+                </span>
+              </span>
+              <span class="research-pub-card__arrow">▾</span>
+            </button>
+            <div class="research-pub-card__body" hidden>
+              <p>{{ summary }}</p>
+              {% if post.citation %}
+                <p class="research-pub-card__citation">{{ post.citation }}</p>
+              {% endif %}
+              <div class="research-pub-card__actions">
+                <a class="btn btn--primary" href="{{ base_path }}{{ post.url }}">Read summary</a>
+                {% if post.paperurl and post.paperurl != "" %}
+                  <a class="btn btn--inverse" href="{{ post.paperurl }}">Open paper</a>
+                {% endif %}
+                {% if post.related_project_url and post.related_project_label %}
+                  <a class="btn btn--info" href="{{ base_path }}{{ post.related_project_url }}">{{ post.related_project_label }}</a>
+                {% endif %}
+              </div>
+            </div>
+          </article>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </section>
+
+  <section class="research-direction" id="methods-and-systems">
+    <span class="research-direction__label">Neural engineering</span>
+    <h2>Systems and computational methods</h2>
+    <p>
+      To advance cognitive neuroscience research and neurotechnology for cognitive health, I develop system and computational methods to record, analyze, and interpret multimodal neural and behavioral signals, including human electrophysiology, neuroimaging, speech acoustics, and eye tracking.
+    </p>
+    <h3 class="research-direction__subheading">Selected methods publications</h3>
+    <div class="research-pubs">
+      {% for post in publications_sorted %}
+        {% if post.research_area == "methods-and-systems" %}
+          {% assign summary = post.excerpt | default: post.content | markdownify | strip_html | strip_newlines | truncate: 280 %}
+          <article class="research-pub-card">
+            <button class="research-pub-card__toggle" type="button" aria-expanded="false">
+              <span class="research-pub-card__year">{{ post.date | date: "%Y" }}</span>
+              <span class="research-pub-card__meta">
+                <span class="research-pub-card__title">{{ post.title }}</span>
+                <span class="research-pub-card__venue">
+                  {% if post.venue and post.venue != "NON" %}{{ post.venue }}{% else %}Methods publication{% endif %}
+                </span>
+              </span>
+              <span class="research-pub-card__arrow">▾</span>
+            </button>
+            <div class="research-pub-card__body" hidden>
+              <p>{{ summary }}</p>
+              {% if post.citation %}
+                <p class="research-pub-card__citation">{{ post.citation }}</p>
+              {% endif %}
+              <div class="research-pub-card__actions">
+                <a class="btn btn--primary" href="{{ base_path }}{{ post.url }}">Read summary</a>
+                {% if post.paperurl and post.paperurl != "" %}
+                  <a class="btn btn--inverse" href="{{ post.paperurl }}">Open paper</a>
+                {% endif %}
+              </div>
+            </div>
+          </article>
+        {% endif %}
+      {% endfor %}
+    </div>
+  </section>
+
+  <h2 class="research-hub__archive-title">Selected publications</h2>
+  <div class="research-pubs">
+    {% for post in featured_publications %}
+      {% assign summary = post.excerpt | default: post.content | markdownify | strip_html | strip_newlines | truncate: 280 %}
+      <article class="research-pub-card">
+        <button class="research-pub-card__toggle" type="button" aria-expanded="false">
+          <span class="research-pub-card__year">{{ post.date | date: "%Y" }}</span>
+          <span class="research-pub-card__meta">
+            <span class="research-pub-card__title">{{ post.title }}</span>
+            <span class="research-pub-card__venue">
+              {% if post.venue and post.venue != "NON" %}{{ post.venue }}{% else %}Selected publication{% endif %}
+            </span>
+          </span>
+          <span class="research-pub-card__arrow">▾</span>
+        </button>
+        <div class="research-pub-card__body" hidden>
+          <p>{{ summary }}</p>
+          {% if post.citation %}
+            <p class="research-pub-card__citation">{{ post.citation }}</p>
+          {% endif %}
+          <div class="research-pub-card__actions">
+            <a class="btn btn--primary" href="{{ base_path }}{{ post.url }}">Read summary</a>
+            {% if post.paperurl and post.paperurl != "" %}
+              <a class="btn btn--inverse" href="{{ post.paperurl }}">Open paper</a>
+            {% endif %}
+            {% if post.related_project_url and post.related_project_label %}
+              <a class="btn btn--info" href="{{ base_path }}{{ post.related_project_url }}">{{ post.related_project_label }}</a>
+            {% endif %}
+          </div>
+        </div>
+      </article>
+    {% endfor %}
+  </div>
+</div>
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    const toggles = Array.from(document.querySelectorAll(".research-pub-card__toggle"));
+
+    toggles.forEach(function(toggle) {
+      toggle.addEventListener("click", function() {
+        const isOpen = toggle.getAttribute("aria-expanded") === "true";
+
+        toggles.forEach(function(otherToggle) {
+          const otherBody = otherToggle.nextElementSibling;
+          otherToggle.setAttribute("aria-expanded", "false");
+          otherToggle.querySelector(".research-pub-card__arrow").textContent = "▾";
+          if (otherBody) {
+            otherBody.hidden = true;
+          }
+        });
+
+        if (!isOpen) {
+          const body = toggle.nextElementSibling;
+          toggle.setAttribute("aria-expanded", "true");
+          toggle.querySelector(".research-pub-card__arrow").textContent = "▴";
+          if (body) {
+            body.hidden = false;
+          }
+        }
+      });
+    });
+  });
+</script>
