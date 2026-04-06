@@ -1,12 +1,7 @@
 Gansheng TAN personal web page was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License. See LICENSE.md.
 
 ## Local Preview Cheatsheet
-
-Run everything from:
-
-```bash
-cd "/Users/ganshengtan/Library/CloudStorage/Box-Box/Washu/projects/github_project/academicpages.github.io"
-```
+enter local repo
 
 Start a local Jekyll preview:
 
