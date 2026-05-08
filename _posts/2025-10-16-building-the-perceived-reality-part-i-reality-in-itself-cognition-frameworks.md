@@ -1,7 +1,7 @@
 ---
-title: 'Building the Perceived Reality (Part I): Cognition, Art, and Frameworks'
-date: 2026-1-13
-permalink: /posts/2025/10/Reflection-on-the-universal-mechanism/
+title: 'Building the Perceived Reality (Part I): Reality-in-Itself, Cognition, and Frameworks'
+date: 2025-10-16
+permalink: /posts/2025/10/building-the-perceived-reality-part-i-reality-in-itself-cognition-frameworks/
 
 tags:
   - Neuroscience
