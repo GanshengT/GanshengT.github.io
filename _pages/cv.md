@@ -495,7 +495,6 @@ redirect_from:
           </p>
           <div class="cv-sheet__tag-row">
             <a class="cv-sheet__tag" href="https://doi.org/10.1109/SMC53654.2022.9945079">Focused-attention EEG paper</a>
-            <a class="cv-sheet__tag" href="{{ base_path }}/projects/2019-MaxFlow_segmentation">MaxFlow segmentation project</a>
           </div>
         </article>
       </div>

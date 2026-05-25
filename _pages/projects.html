@@ -7,9 +7,169 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.projects reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<style>
+  .projects-hub {
+    margin-bottom: 2rem;
+  }
 
+  .projects-hub__intro {
+    max-width: 54rem;
+    margin-bottom: 1.5rem;
+    line-height: 1.8;
+  }
 
+  .projects-grid {
+    display: grid;
+    gap: 1rem;
+  }
 
+  .project-card {
+    padding: 1.2rem;
+    border: 1px solid rgba(15, 23, 42, 0.08);
+    border-radius: 8px;
+    background: #fff;
+    box-shadow: 0 14px 34px rgba(15, 23, 42, 0.06);
+  }
+
+  .project-card__topline {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.45rem;
+    align-items: center;
+    margin-bottom: 0.45rem;
+    color: #64748b;
+    font-size: 0.76rem;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+  }
+
+  .project-card__type {
+    padding: 0.18rem 0.5rem;
+    border-radius: 999px;
+    color: #0f3b44;
+    background: #d7ece8;
+  }
+
+  .project-card h2 {
+    margin: 0 0 0.65rem;
+    font-size: 1.2rem;
+    line-height: 1.25;
+  }
+
+  .project-card h2 a {
+    color: inherit;
+  }
+
+  .project-card__summary {
+    margin: 0 0 1rem;
+    max-width: 56rem;
+    line-height: 1.75;
+  }
+
+  .project-card__links {
+    display: grid;
+    gap: 0.75rem;
+    margin-top: 0.9rem;
+  }
+
+  .project-card__link-group {
+    display: grid;
+    gap: 0.3rem;
+  }
+
+  .project-card__link-label {
+    color: #64748b;
+    font-size: 0.76rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+  }
+
+  .project-card__link-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.45rem;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .project-card__link-list li {
+    margin: 0;
+  }
+
+  .project-card__link-list a {
+    display: inline-flex;
+    align-items: center;
+    min-height: 1.7rem;
+    padding: 0 0.55rem;
+    border: 1px solid rgba(15, 23, 42, 0.1);
+    border-radius: 4px;
+    background: #f7f8fa;
+    color: #102033;
+    font-size: 0.82rem;
+    text-decoration: none;
+  }
+
+  .project-card__link-list a:hover {
+    border-color: rgba(47, 127, 147, 0.4);
+    color: #0f3b44;
+    text-decoration: none;
+  }
+
+  .project-card__actions {
+    margin-top: 1rem;
+  }
+</style>
+
+{% assign projects_sorted = site.projects | sort: "date" | reverse %}
+
+<div class="projects-hub" markdown="0">
+  <p class="projects-hub__intro">
+    I develop computational and engineering tools that grow out of my research on human intelligence. These projects include electrode localization, explainable AI, and pattern-identification methods for transforming complex neural data into interpretable scientific and clinical insight.
+  </p>
+
+  <div class="projects-grid">
+    {% for project in projects_sorted %}
+      {% unless project.project_hidden %}
+        {% assign project_summary = project.summary | default: project.excerpt | default: project.content | markdownify | strip_html | strip_newlines | truncate: 360 %}
+        <article class="project-card">
+          <div class="project-card__topline">
+            <time datetime="{{ project.date | date_to_xmlschema }}">{{ project.date | date: "%Y" }}</time>
+            {% if project.type %}<span class="project-card__type">{{ project.type }}</span>{% endif %}
+          </div>
+
+          <h2><a href="{{ base_path }}{{ project.url }}">{{ project.title }}</a></h2>
+          <p class="project-card__summary">{{ project_summary }}</p>
+
+          <div class="project-card__links">
+            {% if project.related_research_label and project.related_research_url %}
+              <div class="project-card__link-group">
+                <span class="project-card__link-label">Related research</span>
+                <ul class="project-card__link-list">
+                  <li><a href="{{ base_path }}{{ project.related_research_url }}">{{ project.related_research_label }}</a></li>
+                </ul>
+              </div>
+            {% endif %}
+
+            {% if project.related_publications %}
+              <div class="project-card__link-group">
+                <span class="project-card__link-label">Related publication</span>
+                <ul class="project-card__link-list">
+                  {% for publication in project.related_publications %}
+                    <li><a href="{{ publication.url }}">{{ publication.label }}</a></li>
+                  {% endfor %}
+                </ul>
+              </div>
+            {% endif %}
+          </div>
+
+          <div class="project-card__actions">
+            <a class="btn btn--inverse" href="{{ base_path }}{{ project.url }}">Project details</a>
+          </div>
+        </article>
+      {% endunless %}
+    {% endfor %}
+  </div>
+</div>

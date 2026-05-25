@@ -6,6 +6,12 @@ permalink: /projects/2025-explainable-machine-learning-cognitive-neuroscience
 venue: "Washington University in St. Louis"
 date: 2025-11-15
 location: "St. Louis, USA"
+summary: "An explainable machine learning framework for linking neural dynamics to cognitive behavior while preserving feature-level scientific interpretation. The project uses interpretable models to identify neural patterns that support visual encoding and candidate markers for closed-loop cognitive neurotechnology."
+related_research_label: "Brain-body coupling"
+related_research_url: "/research/#brain-body-coupling"
+related_publications:
+  - label: "Mind's eye: Saccade-related evoked potentials support visual encoding in humans"
+    url: "/publication/2025-11-15-minds-eye-saccade-related-evoked-potentials-support-visual"
 ---
 
 This project develops an explainable machine learning framework for cognitive neuroscience. The goal is to learn complex relationships between neural signals and cognitive behavior, then explain model decisions in a way that supports scientific interpretation rather than only predictive performance.

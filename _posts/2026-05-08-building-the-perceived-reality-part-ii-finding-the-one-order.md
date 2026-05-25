@@ -2,6 +2,9 @@
 title: 'Building the Perceived Reality (Part II): Finding the One, Order'
 date: 2026-05-08
 permalink: /posts/2026/05/building-the-perceived-reality-part-ii-finding-the-one-order/
+tldr: "A reflection on order as the relation between roots and fruit: how procedure, justice, moral sense, and universal law can be aligned through the process of finding the one."
+header:
+  teaser: posts/perceived-reality-root-fruit.png
 
 tags:
   - Philosophy
@@ -37,7 +40,7 @@ Ancient philosophy describes the one less directly, perhaps because the one is c
 
 ## 1. The conflict
 
-Evolutionary fitness seems to demand survival, so sacrifice appears to violate nature. A procedural rule can produce a result that feels unfair, so substantive justice appears to stand against procedure.
+As a living organism, sacrifice appears to violate the natural impulse to live. A procedural rule can produce a result that feels unfair, so substantive justice appears to stand against procedure.
 
 The school of thought based on "order" holds that conflict arises when we flatten a vertical order into a horizontal either/or. Earlier phases serve later ones; later phases fulfill earlier ones. The apparent opposition is often an illusion produced by forgetting the order of root and branch.
 
@@ -76,11 +79,13 @@ My take is that the one is manifested as diversity. In nature, it appears as int
 
 ### A. Survival vs. sacrifice
 
-Survival and sacrifice are mortal enemies. Under the order principle, physical life is the root, and righteousness or fulfilled love is the fruit. The root's purpose is to grow into the fruit. Normally, we preserve the root and enjoy the fruit: we live and act rightly. But what happens when the only way to keep the fruit is to give the root?
+At the level of individual life, sacrifice seems to contradict the impulse toward survival. Under the order principle, physical life is the root, and righteousness or fulfilled love is the fruit. The root's purpose is to grow into the fruit. Normally, we preserve the root and enjoy the fruit: we live and act rightly. But what happens when the only way to keep the fruit is to give the root?
 
 Life is what I desire; righteousness is also what I desire. If I cannot have both, I give up life and take righteousness.
 
 Sacrifice is not good simply because it is costly. It is good only when the loss serves a rightly ordered relation: love without possession, duty without vanity, and righteousness without cruelty.
+
+In biological evolution, individual sacrifice can serve the continuation of kin, offspring, or the larger reproductive line. In this sense, the individual life may function as the root, while genetic continuity is the fruit.
 
 ### B. Procedural justice vs. substantive justice
 

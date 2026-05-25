@@ -115,6 +115,23 @@ author_profile: true
     line-height: 1.8;
   }
 
+  .research-direction__visual {
+    display: block;
+    margin: 1.2rem 0 1.4rem;
+    padding: 0.75rem;
+    border-radius: 18px;
+    border: 1px solid rgba(15, 23, 42, 0.08);
+    background: #fff;
+    box-shadow: 0 18px 38px rgba(15, 23, 42, 0.06);
+  }
+
+  .research-direction__visual img {
+    display: block;
+    width: 100%;
+    height: auto;
+    border-radius: 12px;
+  }
+
   .research-pubs {
     display: grid;
     gap: 0.9rem;
@@ -258,8 +275,11 @@ author_profile: true
     <span class="research-direction__label">Cognitive neuroscience</span>
     <h2>Brain-body coupling</h2>
     <p>
-      Eye movements, heartbeat, and other bodily rhythms structure the neural dynamics of human cognition. Earlier work on EEG dynamics during meditation and attention established a foundation for later questions about how endogenous rhythms shape cognition.
+      Eye movements, heartbeat, and other bodily rhythms structure the neural dynamics of human cognition. My work leverages concurrent brain sensing and eye tracking to understand how the brain coordinates its activity with eye movement to support memory encoding.
     </p>
+    <figure class="research-direction__visual">
+      <img src="{{ base_path }}/images/research/brain-body-coupling.jpg" alt="Graphical abstract showing brain-body coupling during memory encoding">
+    </figure>
     <div class="research-pubs">
       {% for post in publications_sorted %}
         {% if post.research_area == "brain-body-coupling" %}

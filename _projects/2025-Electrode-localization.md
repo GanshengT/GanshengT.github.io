@@ -6,6 +6,12 @@ permalink: /projects/2025-Electrode-localization
 venue: "Department of Biomedical Engineering"
 date: 2025-01-28
 location: "St. Louis, USA"
+summary: "A MATLAB toolkit for objectively localizing intracranial electrode contacts from CT, MRI, and FreeSurfer-derived anatomical segmentations. The workflow combines image-guided initialization, graph-based search, validation, and export for human electrophysiology research."
+related_research_label: "Systems and computational methods"
+related_research_url: "/research/#methods-and-systems"
+related_publications:
+  - label: "Intracranial_contact_loc software record"
+    url: "https://doi.org/10.5281/zenodo.14217838"
 ---
 
 
@@ -36,5 +42,4 @@ Achieve non-parametric optimization to maximize dependence on subjective choice.
 
 Challenges 
 ---------
-
 
