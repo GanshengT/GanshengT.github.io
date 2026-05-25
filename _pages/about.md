@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "I study how bodily rhythms structure the neural dynamics of human cognition."
+title: "I study human intelligence in an age of machine intelligence."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -81,6 +81,10 @@ redirect_from:
     }
   }
 </style>
+
+Human intelligence has inspired many of today’s most powerful technologies, from computer vision to large language models. Machine intelligence can scale its infrastructure: data, memory, processors, and power, to solve defined problems. In contrast, humans navigate a changing world through a biological system that is powerful yet constrained: a brain with limited resources, embedded in a body that is constantly moving and sensing.
+
+As technology transforms work, education, and communication, people are expected to learn faster, make decisions faster, and manage the complex output of machine intelligence. This challenge cannot be solved by education alone, nor can we assume that biological adaptation will keep pace with technological advance. We need to understand how human intelligence is organized and develop technology to support it. This is especially urgent given the aging population and the nervous system's vulnerability to injury and disease. My research seeks to understand human intelligence through bodily movement and explores how neurotechnology can help sustain, restore, and extend cognitive function.
 
 <div class="about-rhythm" markdown="0">
   <section class="about-rhythm__visual" aria-label="Animated oscillation signal">
@@ -424,12 +428,12 @@ redirect_from:
 </script>
 
 ## Rhythms of Cognition
-The human brain accomplishes something we rarely pause to appreciate: it supports a wide range of cognitive functions including perception, attention, memory and speech, within a single, limited neural system. How does the brain coordinate neural computation in time to support these functions? My research suggests one solution is to align neural activity with bodily rhythms, such as eye movements, breathing, and the heartbeat. I have found that each shift in gaze is accompanied by a spatially structured neural response that underlie memory encoding. 
+The human brain accomplishes something we rarely pause to appreciate: it supports a wide range of cognitive functions including perception, attention, memory and speech, within a single, limited neural system. How does the brain coordinate neural computation in time to support these functions? My research suggests one solution is to align neural activity with bodily rhythms, such as eye movements, breathing, and the heartbeat. I have found that each shift in gaze is accompanied by a spatially structured neural response supporting memory encoding. 
 
-Bodily rhythms carry information about when sensory input is likely to arrive and when internal states are likely to change, providing the brain with a reliable temporal scaffold for organizing computation. Combining human electrophysiology with eye-tracking, I aim to characterize how neural dynamics coordinate with bodily rhythms and how this coordination shapes human cognition.
+Bodily rhythms carry information about when sensory input is likely to arrive or when internal states are likely to change, providing the brain with a reliable temporal scaffold for organizing computation. Combining electrophysiology with eye-tracking, I aim to characterize how neural dynamics coordinate with bodily rhythms and how this coordination shapes human cognition.
 
 ## Neurotechnology for cognitive health
-Cognitive dysfunction in aging and acquired brain injury is an increasingly urgent challenge as the population ages. Building on my research into how brain-body coordination shapes cognition, I pursue two complementary translational strategies: (1) neuromodulation to preserve and restore function by engaging existing neural circuitry and (2) brain-computer interface (BCI) to decode, supplement, or replace neural processing for cognition. Toward these goals, I develop computational methods that dissociate neural patterns underlying cognitive processes to support brain computer interface compensating or replacement of impaired function; and study mechanisms of action of several neural stimulation, including transcranial magnetic stimulation (TMS), transcutaneous auricular vagus nerve stimulation (taVNS), and low-intensity focused ultrasound. These efforts define what, when and how to interface with the brain for cognitive health.
+Cognitive dysfunction in aging and acquired brain injury is an increasingly urgent challenge as the population ages. I pursue two complementary translational strategies: (1) neuromodulation to preserve and restore function by engaging existing neural circuitry and (2) brain-computer interface (BCI) to decode, supplement, or replace neural processing for cognition. Toward these goals, I develop computational methods that dissociate neural patterns underlying cognitive processes to support brain computer interface compensating or replacement of impaired function; and study mechanisms of action of several neural stimulation, including transcranial magnetic stimulation (TMS), transcutaneous auricular vagus nerve stimulation (taVNS), and low-intensity focused ultrasound. These efforts define what, when and how to interface with the brain for cognitive health.
 
 <details class="about-fold">
   <summary>Biography</summary>
@@ -443,6 +447,7 @@ Cognitive dysfunction in aging and acquired brain injury is an increasingly urge
   <summary>Selected Awards</summary>
   <div class="about-fold__content">
     <ul>
+      <li>2026 Outstanding Research Award, Washington University in St. Louis</li>
       <li>2025 Biomedical Engineering Teaching Award, Washington University in St. Louis</li>
       <li>2024 Best Scientific Abstract Award, Neurocritical Care Society</li>
       <li>2021 China National Scholarship</li>
