@@ -2,6 +2,8 @@
 title: 'What Is Writing For? A Reflection on Purpose and Epistemology'
 date: 2026-03-24
 permalink: /posts/2025/08/What-Is-writing-For-A-Reflection-on-Purpose-and-Epistemology/
+tldr: "A reflection on why writing matters before and after it is read: as clarification, communication, persuasion, and an epistemological responsibility in academic work."
+first_paragraph: "Writing is not only a record of finished thought. It is a method for clarifying thought, sharing knowledge, and making research intelligible to readers whose cognitive pathways may differ from the writer's."
 
 tags:
   - Neuroscience
