@@ -1,6 +1,8 @@
 ---
 title: "Competition, Institutions, and Social Neuroscience"
 date: 2026-08-27
+feedback: true
+comments: false
 permalink: /posts/2026/08/competition-institutions-and-social-neuroscience/
 excerpt: "Competition does more than allocate scarce resources: institutions turn rankings, titles, and credentials into reward signals that human nervous systems learn to value. This essay explores how competition, hierarchy, and the brain co-evolve, and live authentically and enthusiastic with both success and failure from the competition."
 tags:

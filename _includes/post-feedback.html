@@ -1,0 +1,37 @@
+{% assign feedback_url = page.url | absolute_url %}
+{% assign usefulness_url = feedback_url | append: '#rcdc-935272' | url_encode %}
+{% assign finished_url = feedback_url | append: '#rcdc-finished' | url_encode %}
+{% assign feedback_subject = page.title | prepend: 'Thoughts on: ' | url_encode | replace: '+', '%20' %}
+{% assign feedback_body = feedback_url | url_encode | replace: '+', '%20' %}
+
+<link rel="stylesheet" href="https://api.reactioncount.com/api/counts.css?url={{ finished_url | escape }}" />
+<link rel="stylesheet" href="https://api.reactioncount.com/api/counts.css?url={{ usefulness_url | escape }}" />
+
+<section class="post-feedback" aria-label="Post feedback">
+  <div class="post-feedback__group">
+    <h2 id="post-feedback-finished-label">Finished the post?</h2>
+    <form id="rcdc-finished" action="https://api.reactioncount.com/api/reaction?url={{ finished_url | escape }}" method="post" aria-labelledby="post-feedback-finished-label">
+      <button type="submit" name="reaction" value="rcdc-finished-a">
+        <span>✨ I finished reading</span> <span class="rcdc-count" id="rcdc-finished-a-count"></span>
+      </button>
+    </form>
+    <p class="post-feedback__note">The count reflects reader confirmations.</p>
+  </div>
+
+  <div class="post-feedback__group">
+    <h2 id="post-feedback-usefulness-label">Was this post useful?</h2>
+    <form id="rcdc-935272" action="https://api.reactioncount.com/api/reaction?url={{ usefulness_url | escape }}" method="post" aria-labelledby="post-feedback-usefulness-label">
+      <button type="submit" name="reaction" value="rcdc-935272-a">
+        <span>👍 Useful</span> <span class="rcdc-count" id="rcdc-935272-a-count"></span>
+      </button>
+      <button type="submit" name="reaction" value="rcdc-935272-b">
+        <span>👎 Not useful</span> <span class="rcdc-count" id="rcdc-935272-b-count"></span>
+      </button>
+    </form>
+  </div>
+
+  {% if site.author.email %}
+    <p class="post-feedback__email"><a href="mailto:{{ site.author.email | escape }}?subject={{ feedback_subject | escape }}&amp;body={{ feedback_body | escape }}">Email me your thoughts</a></p>
+  {% endif %}
+  <small class="post-feedback__attribution"><a href="https://reactioncount.com/" target="_blank" rel="noopener">Privacy-first reactions via Reaction Count</a></small>
+</section>
