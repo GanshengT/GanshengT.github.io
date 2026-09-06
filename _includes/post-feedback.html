@@ -15,7 +15,6 @@
         <span>✨ I finished reading</span> <span class="rcdc-count" id="rcdc-finished-a-count"></span>
       </button>
     </form>
-    <p class="post-feedback__note">The count reflects reader confirmations.</p>
   </div>
 
   <div class="post-feedback__group">
@@ -33,5 +32,4 @@
   {% if site.author.email %}
     <p class="post-feedback__email"><a href="mailto:{{ site.author.email | escape }}?subject={{ feedback_subject | escape }}&amp;body={{ feedback_body | escape }}">Email me your thoughts</a></p>
   {% endif %}
-  <small class="post-feedback__attribution"><a href="https://reactioncount.com/" target="_blank" rel="noopener">Privacy-first reactions via Reaction Count</a></small>
 </section>
